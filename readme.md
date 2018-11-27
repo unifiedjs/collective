@@ -19,6 +19,7 @@ Two collective teams are special: the [core][] team and the [moderation][] team.
     *   [rehype team](#rehype-team)
     *   [retext team](#retext-team)
     *   [redot team](#redot-team)
+    *   [mdx team](#mdx-team)
     *   [micromark team](#micromark-team)
     *   [syntax tree team](#syntax-tree-team)
     *   [vfile team](#vfile-team)
@@ -147,6 +148,9 @@ They additionally:
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
 
 ### Moderation team
 
@@ -225,6 +229,21 @@ The **redot team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+
+### mdx team
+
+The **mdx team** is an **[organization][]** team responsible for
+[**@mdx-js**](https://github.com/mdx-js).
+
+#### Members
+
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
+    (**lead**)
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
 
 ### micromark team
 
