@@ -160,10 +160,6 @@ the code of conduct.
 This team does not have a leader and, to limit conflicts of interest, **should**
 not include **[core team][core]** members.
 
-They additionally:
-
-*   **Uphold the code of conduct**.
-
 #### Members
 
 *   Titus Wormer
