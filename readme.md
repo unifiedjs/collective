@@ -148,7 +148,6 @@ They additionally:
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
-    (**lead**)
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
