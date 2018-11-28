@@ -48,7 +48,8 @@ They:
 Teams should be made up of:
 
 *   A team lead: this role must be fulfilled by a **[core team][core]** member.
-    Each team except for the **[moderation team][moderation]** has a lead.
+    Each team except for the **[moderation][]** and **[core][]** teams has a
+    lead.
 *   Area experts: people who have a lot of interest and expertise in the area
     covered by the team, but who may be far less engaged with other areas of
     the collective.
