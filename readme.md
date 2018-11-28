@@ -96,7 +96,7 @@ It’s suggested that organization teams differentiate between mergers and
 releasers.
 All team members are mergers: they have the right to merge a pull request,
 although it is highly suggested to wait at least 72 hours, in order to gather
-enough feedback, and at least 2 LGTMs from other members.
+enough feedback, and at least 2 approvals from other members.
 Some members are releasers: they can release a new version of a project, taking
 into account that some changes are better bundled together.
 
