@@ -165,7 +165,6 @@ not include **[core team][core]** members.
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
-    (**lead**)
 
 ### unified team
 
