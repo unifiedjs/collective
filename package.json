@@ -6,7 +6,7 @@
   "license": "CC-BY-4.0",
   "keywords": [],
   "repository": "unifiedjs/governance",
-  "bugs": "https://github.com/syntax-tree/unifiedjs/governance",
+  "bugs": "https://github.com/unifiedjs/governance",
   "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
