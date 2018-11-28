@@ -33,8 +33,8 @@ They:
 
 *   **Set the direction in their scope**.
     That means setting the values that are used when making decisions about
-    tradeoffs, steering the scope and what they govern toward specific
-    directions, and leading the discussion for initiatives
+    tradeoffs, steering the scope toward specific directions, and leading the
+    discussion for initiatives
 *   **Shepherd initiatives for what is governed**.
     This means making stakeholders (people who are strongly affected by
     decisions) aware of initiatives, teasing out design tradeoffs and
