@@ -93,7 +93,8 @@ The team leader is responsible for:
 *   Ensuring initiatives and PRs are progressing at a reasonable rate,
     re-assigning as needed.
 *   Making final decisions in cases of initiatives that are unable to reach
-    consensus otherwise (this should be unlikely).
+    consensus otherwise (this should be unlikely, and should be discussed with
+    the [core][] team).
 
 The way that teams communicate internally and externally is left to each team
 to decide, but:
