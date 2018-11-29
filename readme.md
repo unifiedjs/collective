@@ -1,19 +1,41 @@
 # Governance Draft
 
-unified is governed by several teams.
-Teams are scoped to the **collective** or an **organization**.
-Respectively, they govern the **organizations** or the **projects** under them.
-Two collective teams are special: the [core][] team and the [moderation][] team.
+The unified collective is made up of organizations and governed by the team
+members steering them.
+
+## Summary
+
+*   unified is governed by several teams
+*   teams are scoped to one **organization** or the **collective**
+*   teams respectively govern the **projects** or **organizations** under them
+*   the [core][] and [moderation][] teams are special
+*   individuals making significant contributions may become a member, they are
+    nominated by existing members and approved by the [core][] team
+*   any member may merge, some members may release
+
+```ascii
++-------------------------------------------------+
+|                   COLLECTIVE                    |
+|                core & moderation                |
+|                                                 |
+|                                                 |
+|                  ORGANIZATIONS                  |
+| +-------------+ +-------------+ +-------------+ |
+| |  unifiedjs  | |  remarkjs   | |  rehypejs   | |
+| +-------------+ +-------------+ +-------------+ |
+| +-------------+ +-------------+ +-------------+ |
+| |   retextjs  | |   redotjs   | |   mdx-js    | |
+| +-------------+ +-------------+ +-------------+ |
+| +-------------+ +-------------+ +-------------+ |
+| |  micromark  | |    vfile    | | syntax-tree | |
+| +-------------+ +-------------+ +-------------+ |
++-------------------------------------------------+
+```
 
 ## Table of Contents
 
-*   [Structure](#structure)
-    *   [All teams](#all-teams)
-    *   [Organization teams](#organization-teams)
-    *   [Collective teams](#collective-teams)
 *   [Teams](#teams)
-    *   [Core team](#core-team)
-    *   [Moderation team](#moderation-team)
+*   [Organization teams](#organization-teams)
     *   [unified team](#unified-team)
     *   [remark team](#remark-team)
     *   [rehype team](#rehype-team)
@@ -23,10 +45,11 @@ Two collective teams are special: the [core][] team and the [moderation][] team.
     *   [micromark team](#micromark-team)
     *   [syntax tree team](#syntax-tree-team)
     *   [vfile team](#vfile-team)
+*   [Collective teams](#collective-teams)
+    *   [Core team](#core-team)
+    *   [Moderation team](#moderation-team)
 
-## Structure
-
-### All teams
+## Teams
 
 **All teams serve as leadership for their scope**.
 They:
@@ -80,7 +103,7 @@ to decide, but:
 *   Each team will have a dedicated forum channel.
 *   Teams should actively seek out discussion and input from non-members.
 
-### Organization teams
+## Organization teams
 
 **Organization teams** are scoped to an organization and govern the projects
 under it.
@@ -108,62 +131,6 @@ These guidelines are suggestions because there are differences between the
 projects under the unified umbrella and differences in proposed changes.
 For example, making a breaking change to a high-level project should be handled
 differently that adding prettier to a refactor a low-level project’s style.
-
-### Collective teams
-
-**Collective teams** are scoped to the whole collective and govern the
-organizations under it.
-
-They have the same responsibilities as [all teams][all], and additionally:
-
-*   **De-escalate initiatives to organization teams**.
-*   **Focus on overarching concerns**.
-    The collective teams are specifically designed to take a **global** view of
-    the collective, to make sure the pieces are fitting together in a coherent
-    way.
-
-## Teams
-
-### Core team
-
-The **core team** is a **[collective][]** team responsible for governing all
-other teams.
-Members of this team **should not** be on the **[moderation team][moderation]**.
-
-They additionally:
-
-*   **Set the direction and vision across all teams**.
-    That means setting the core values that are used when making decisions
-    about tradeoffs, steering the ecosystem toward specific directions, and
-    leading the discussion for **major** initiatives.
-*   **Spin up or shut down teams**.
-    That means creating teams around new (temporary) areas and disolving teams
-    when their area is complete.
-*   **Accept or reject members**.
-    This means accepting or rejecting individuals nominated by existing members.
-*   **Offboard team members**.
-
-#### Members
-
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    &lt;johnotander@gmail.com>
-
-### Moderation team
-
-The **moderation team** is a **[collective][]** team responsible for enforcing
-the code of conduct.
-This team does not have a leader and, to limit conflicts of interest, **should**
-not include **[core team][core]** members.
-
-#### Members
-
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
 
 ### unified team
 
@@ -276,9 +243,61 @@ The **vfile team** is an **[organization][]** team responsible for
     &lt;tituswormer@gmail.com>
     (**lead**)
 
-<!-- definitions -->
+## Collective teams
 
-[all]: #all-teams
+**Collective teams** are scoped to the whole collective and govern the
+organizations under it.
+
+They have the same responsibilities as [all teams][all], and additionally:
+
+*   **De-escalate initiatives to organization teams**.
+*   **Focus on overarching concerns**.
+    The collective teams are specifically designed to take a **global** view of
+    the collective, to make sure the pieces are fitting together in a coherent
+    way.
+
+### Core team
+
+The **core team** is a **[collective][]** team responsible for governing all
+other teams.
+Members of this team **should not** be on the **[moderation team][moderation]**.
+
+They additionally:
+
+*   **Set the direction and vision across all teams**.
+    That means setting the core values that are used when making decisions
+    about tradeoffs, steering the ecosystem toward specific directions, and
+    leading the discussion for **major** initiatives.
+*   **Spin up or shut down teams**.
+    That means creating teams around new (temporary) areas and disolving teams
+    when their area is complete.
+*   **Accept or reject members**.
+    This means accepting or rejecting individuals nominated by existing members.
+*   **Offboard team members**.
+
+#### Members
+
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
+
+### Moderation team
+
+The **moderation team** is a **[collective][]** team responsible for enforcing
+the code of conduct.
+This team does not have a leader and, to limit conflicts of interest, **should**
+not include **[core team][core]** members.
+
+#### Members
+
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+
+<!-- definitions -->
 
 [core]: #core-team
 
@@ -287,3 +306,5 @@ The **vfile team** is an **[organization][]** team responsible for
 [collective]: #collective-teams
 
 [organization]: #organization-teams
+
+[all]: #teams
