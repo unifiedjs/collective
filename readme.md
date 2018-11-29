@@ -48,6 +48,7 @@ members steering them.
 *   [Collective teams](#collective-teams)
     *   [Core team](#core-team)
     *   [Moderation team](#moderation-team)
+*   [Glossary](#glossary)
 
 ## Teams
 
@@ -298,6 +299,28 @@ not include **[core team][core]** members.
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
 
+## Glossary
+
+###### Collective
+
+The collective is unified as a whole with the [organization][dfn-organization]s
+under it the [project][dfn-project]s under them.
+
+###### Organization
+
+An organization is a collection of [project][dfn-project]s around a shared area
+typically hosted in a GitHub organization.
+
+###### Project
+
+A project is typically one GitHub repository, although some repositories are
+not projects in the sense that they include code.
+
+###### Initiative
+
+An initiative is a non-trivial change that significantly affects users.
+Teams must define what they deem **trivial** or **significant**.
+
 <!-- definitions -->
 
 [core]: #core-team
@@ -309,3 +332,7 @@ not include **[core team][core]** members.
 [organization]: #organization-teams
 
 [all]: #teams
+
+[dfn-organization]: #organization
+
+[dfn-project]: #project
