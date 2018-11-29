@@ -265,9 +265,9 @@ Members of this team **should not** be on the **[moderation team][moderation]**.
 
 They additionally:
 
-*   **Set the direction and vision across all teams**.
+*   **Set the direction and vision for the collective across organizations**.
     That means setting the core values that are used when making decisions
-    about tradeoffs, steering the ecosystem toward specific directions, and
+    about tradeoffs, steering the collective toward specific directions, and
     leading the discussion for **major** initiatives.
 *   **Spin up or shut down teams**.
     That means creating teams around new (temporary) areas and disolving teams
