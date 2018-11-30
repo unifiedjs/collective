@@ -156,6 +156,9 @@ The **unified team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+*   Victor Felder
+    ([**@vhf**](https://github.com/vhf))
+    &lt;victor@draft.li>
 
 ### remark team
 
@@ -174,6 +177,9 @@ The **remark team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+*   Victor Felder
+    ([**@vhf**](https://github.com/vhf))
+    &lt;victor@draft.li>
 
 ### rehype team
 
@@ -189,6 +195,9 @@ The **rehype team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+*   Victor Felder
+    ([**@vhf**](https://github.com/vhf))
+    &lt;victor@draft.li>
 
 ### retext team
 
