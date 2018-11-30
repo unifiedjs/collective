@@ -158,6 +158,9 @@ The **remark team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+*   Nikita Sobolev
+    ([**@sobolevn**](https://github.com/sobolevn))
+    &lt;mail@sobolevn.me>
 
 ### rehype team
 
