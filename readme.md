@@ -135,6 +135,13 @@ projects under the unified umbrella and differences in proposed changes.
 For example, making a breaking change to a high-level project should be handled
 differently that adding prettier to a refactor a low-level project’s style.
 
+Projects under an organization team are sometimes originally developed or
+maintained by an individual outside that team.
+These individuals, in the scope of that project, have the responsibility and
+right like team members of accepting or rejecting initiatives.
+If the organization differentiates between mergers and releasers, these
+individuals should additionally be classified as mergers, but not releasers.
+
 ### unified team
 
 The **unified team** is an **[organization][]** team responsible for
