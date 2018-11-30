@@ -149,6 +149,9 @@ The **unified team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -161,13 +164,16 @@ The **remark team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
+*   Nikita Sobolev
+    ([**@sobolevn**](https://github.com/sobolevn))
+    &lt;mail@sobolevn.me>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
-*   Nikita Sobolev
-    ([**@sobolevn**](https://github.com/sobolevn))
-    &lt;mail@sobolevn.me>
 
 ### rehype team
 
@@ -176,6 +182,9 @@ The **rehype team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -290,12 +299,12 @@ They additionally:
 
 #### Members
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
 
 ### Moderation team
 
