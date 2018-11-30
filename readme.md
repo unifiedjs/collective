@@ -49,6 +49,7 @@ members steering them.
     *   [Core team](#core-team)
     *   [Moderation team](#moderation-team)
 *   [Glossary](#glossary)
+*   [License](#license)
 
 ## Teams
 
@@ -321,6 +322,13 @@ not projects in the sense that they include code.
 An initiative is a non-trivial change that significantly affects users.
 Teams must define what they deem **trivial** or **significant**.
 
+## License
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][license].
+It’s based on the [Rust governance proposal][rust] and the [Node governance
+docs][node].
+
 <!-- definitions -->
 
 [core]: #core-team
@@ -336,3 +344,9 @@ Teams must define what they deem **trivial** or **significant**.
 [dfn-organization]: #organization
 
 [dfn-project]: #project
+
+[rust]: https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md
+
+[node]: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
+
+[license]: https://creativecommons.org/licenses/by/4.0/
