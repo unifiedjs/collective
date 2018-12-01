@@ -304,6 +304,11 @@ They additionally:
     when their area is complete.
 *   **Accept or reject members**.
     This means accepting or rejecting individuals nominated by existing members.
+*   **Review inactive team members**.
+    The core team periodically reviews the list of team members to identify
+    inactive team members.
+    Past members are typically given Emeritus status.
+    Emeriti may request that the their status is restored.
 *   **Offboard team members**.
 
 #### Members
