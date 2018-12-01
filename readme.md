@@ -149,6 +149,9 @@ The **unified team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
@@ -167,6 +170,9 @@ The **remark team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
@@ -188,6 +194,9 @@ The **rehype team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
@@ -218,10 +227,13 @@ The **redot team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
+    (**lead**)
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
-    (**lead**)
 
 ### mdx team
 
@@ -257,6 +269,9 @@ The **syntax tree team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -269,6 +284,9 @@ The **vfile team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -313,6 +331,9 @@ They additionally:
 
 #### Members
 
+*   Christian Murphy
+    ([**@christianmurphy**](https://github.com/christianmurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
