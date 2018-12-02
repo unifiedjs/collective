@@ -287,6 +287,9 @@ The **vfile team** is an **[organization][]** team responsible for
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
+*   Olivia Hugger
+    ([**@komaeda**](https://github.com/komaeda))
+    &lt;liv@fastmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -350,9 +353,9 @@ not include **[core team][core]** members.
 
 #### Members
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
+*   Olivia Hugger
+    ([**@komaeda**](https://github.com/komaeda))
+    &lt;liv@fastmail.com>
 
 ## Glossary
 
