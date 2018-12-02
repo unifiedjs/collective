@@ -276,6 +276,9 @@ The **micromark team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+*   Victor Felder
+    ([**@vhf**](https://github.com/vhf))
+    &lt;victor@draft.li>
 
 ### syntax tree team
 
