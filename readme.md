@@ -155,6 +155,9 @@ The **unified team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -176,6 +179,9 @@ The **remark team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Nikita Sobolev
     ([**@sobolevn**](https://github.com/sobolevn))
     &lt;mail@sobolevn.me>
@@ -200,6 +206,9 @@ The **rehype team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -215,6 +224,9 @@ The **retext team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -257,6 +269,9 @@ The **micromark team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -272,6 +287,9 @@ The **syntax tree team** is an **[organization][]** team responsible for
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
