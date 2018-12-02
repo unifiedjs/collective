@@ -9,7 +9,7 @@ members steering them.
 *   teams are scoped to one **organization** or the **collective**
 *   teams respectively govern the **projects** or **organizations** under them
 *   the [core][] and [moderation][] teams are special
-*   individuals making significant contributions may become a member, they are
+*   individuals making significant contributions may join a team, they are
     nominated by existing members and approved by the [core][] team
 *   any member may merge, some members may release
 
