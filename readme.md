@@ -275,6 +275,9 @@ The **micromark team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
