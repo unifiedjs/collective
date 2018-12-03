@@ -179,6 +179,9 @@ The **remark team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Junyoung Choi
+    ([**@Rokt33r**](https://github.com/Rokt33r))
+    &lt;fluke8259@gmail.com>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
@@ -192,6 +195,9 @@ The **remark team** is an **[organization][]** team responsible for
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
+*   Zeke Sikelianos
+    ([**@zeke**](https://github.com/zeke))
+    &lt;zeke@sikelianos.com>
 
 ### rehype team
 
