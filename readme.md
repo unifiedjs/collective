@@ -158,6 +158,9 @@ The **unified team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Stephan Schneider
+    ([**@zcei**](https://github.com/zcei))
+    &lt;stephanschndr@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -267,6 +270,9 @@ The **mdx team** is an **[organization][]** team responsible for
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
     (**lead**)
+*   Stephan Schneider
+    ([**@zcei**](https://github.com/zcei))
+    &lt;stephanschndr@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -290,6 +296,9 @@ The **micromark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Stephan Schneider
+    ([**@zcei**](https://github.com/zcei))
+    &lt;stephanschndr@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -379,6 +388,9 @@ They additionally:
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Stephan Schneider
+    ([**@zcei**](https://github.com/zcei))
+    &lt;stephanschndr@gmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
