@@ -236,6 +236,9 @@ The **retext team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Richard Littauer
+    ([**@RichardLitt**](https://github.com/RichardLitt))
+    &lt;richard@maintainer.io>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -388,6 +391,9 @@ They additionally:
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Richard Littauer
+    ([**@RichardLitt**](https://github.com/RichardLitt))
+    &lt;richard@maintainer.io>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
