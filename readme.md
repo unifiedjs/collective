@@ -268,6 +268,12 @@ The **mdx team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
 
+#### Emeriti
+
+*   Jessica Stokes
+    ([**@ticky**](https://github.com/ticky))
+    &lt;hello@jessicastokes.net>
+
 ### micromark team
 
 The **micromark team** is an **[organization][]** team responsible for
