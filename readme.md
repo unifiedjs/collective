@@ -260,6 +260,9 @@ The **mdx team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Christopher Biscardi
+    ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
+    &lt;chris@christopherbiscardi.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
