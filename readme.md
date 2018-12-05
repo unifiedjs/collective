@@ -394,6 +394,9 @@ They additionally:
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
     &lt;richard@maintainer.io>
