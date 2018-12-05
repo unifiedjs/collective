@@ -299,6 +299,9 @@ The **micromark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Mudit Ameta
+    ([**@zeusdeux**](https://github.com/zeusdeux))
+    &lt;zeusdeux@gmail.com>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
