@@ -65,11 +65,12 @@ they are moved under the governance of an organization team.
     If the vote rejects the request the donation is denied.
 *   The **outside maintainer** should add a **member** to the **outside
     project** on GitHub and npm.
-*   The **member** will move the project, strip **outside maintainers** of
-    their release rights, and configure them as **outside collaborators**.
 *   **Member**s or **outside collaborators** should make sure the project
     matches **inside projects**, such as having a “Contributing” section,
     a proper license, etc.
+*   The **member** will move the project, strip **outside maintainers** of
+    their previous rights and configure their new rights as
+    **outside collaborators**.
 
 ## Outside collaborators
 
