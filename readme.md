@@ -158,6 +158,9 @@ The **unified team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Mudit Ameta
+    ([**@zeusdeux**](https://github.com/zeusdeux))
+    &lt;zeusdeux@gmail.com>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
@@ -188,6 +191,9 @@ The **remark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Mudit Ameta
+    ([**@zeusdeux**](https://github.com/zeusdeux))
+    &lt;zeusdeux@gmail.com>
 *   Nikita Sobolev
     ([**@sobolevn**](https://github.com/sobolevn))
     &lt;mail@sobolevn.me>
@@ -273,6 +279,9 @@ The **mdx team** is an **[organization][]** team responsible for
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
     (**lead**)
+*   Mudit Ameta
+    ([**@zeusdeux**](https://github.com/zeusdeux))
+    &lt;zeusdeux@gmail.com>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
