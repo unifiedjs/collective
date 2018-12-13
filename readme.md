@@ -188,6 +188,9 @@ The **remark team** is an **[organization][]** team responsible for
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
     &lt;fluke8259@gmail.com>
+*   Marouane Fazouane
+    ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
+    &lt;fazouanem3@gmail.com>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
@@ -305,6 +308,9 @@ The **micromark team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Marouane Fazouane
+    ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
+    &lt;fazouanem3@gmail.com>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
