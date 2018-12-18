@@ -278,22 +278,40 @@ The **mdx team** is an **[organization][]** team responsible for
 *   Christopher Biscardi
     ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
     &lt;chris@christopherbiscardi.com>
+*   James K. Nelson
+    ([**@jamesknelson**](https://github.com/jamesknelson))
+    &lt;james@jamesknelson.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
     (**lead**)
+*   Matija Marohnić
+    ([**@silvenon**](https://github.com/silvenon))
+    &lt;matija.marohnic@gmail.com>
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
     &lt;zeusdeux@gmail.com>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
+*   Tim Neutkens
+    ([**@timneutkens**](https://github.com/timneutkens))
+    &lt;tim@zeit.co>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
 
 #### Emeriti
 
+*   Adam Morse
+    ([**@mrmrs**](https://github.com/mrmrs))
+    &lt;hi@mrmrs.cc>
+*   Brent Jackson
+    ([**@jxnblk**](https://github.com/jxnblk))
+    &lt;jxnblk@gmail.com>
+*   Guillermo Rauch
+    ([**@rauchg**](https://github.com/rauchg))
+    &lt;rauchg@gmail.com>
 *   Jessica Stokes
     ([**@ticky**](https://github.com/ticky))
     &lt;hello@jessicastokes.net>
