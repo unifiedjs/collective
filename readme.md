@@ -452,6 +452,9 @@ not include **[core team][core]** members.
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
     &lt;liv@fastmail.com>
+*   Richard Littauer
+    ([**@RichardLitt**](https://github.com/RichardLitt))
+    &lt;richard@maintainer.io>
 
 ## Glossary
 
@@ -474,6 +477,12 @@ not projects in the sense that they include code.
 
 An initiative is a non-trivial change that significantly affects users.
 Teams must define what they deem **trivial** or **significant**.
+
+## Code of Conduct
+
+We follow the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). Please read it at your leisure, as you agree to abide by it by interacting with @unifiedjs on GitHub.
+
+This Code should be copied to all documentation repositories for each project, and applies to every repository in the wider @unifiedjs ecosystem.
 
 ## License
 
