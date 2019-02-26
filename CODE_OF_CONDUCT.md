@@ -65,6 +65,8 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+In cases where community members transgress against the values in the Code, members of the Moderation team will use a three-strike warning system, where the aggressor will be warned twice before they are permanently excluded from our community spaces. This code applies to Spectrum, IRC, and GitHub, and any other space that this community uses for communication. For interactions between community members outside of this space, the code also applies if the interactions are reported and deemed to be interfering with community members safely working on any project together. Conversations between moderators (when they are more serious than discussing simple warnings) will occur in private repositories or through email, to ensure both anonymity for reporters and the safety of the moderators.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
