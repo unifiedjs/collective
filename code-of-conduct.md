@@ -55,25 +55,36 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at richard@maintainer.io, which will go only to Richard Littauer, or to liv@fastmail.com, which will go only to Olivia Hugger. You may also cc both. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+reported by contacting the project team at richard@maintainer.io, which will go
+only to Richard Littauer, or to liv@fastmail.com, which will go only to Olivia
+Hugger. You may also cc both. All complaints will be reviewed and investigated
+and will result in a response that is deemed necessary and appropriate to the
+circumstances. The project team is obligated to maintain confidentiality with
+regard to the reporter of an incident. Further details of specific enforcement
+policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-In cases where community members transgress against the values in the Code, members of the Moderation team will use a three-strike warning system, where the aggressor will be warned twice before they are permanently excluded from our community spaces. This code applies to Spectrum, IRC, and GitHub, and any other space that this community uses for communication. For interactions between community members outside of this space, the code also applies if the interactions are reported and deemed to be interfering with community members safely working on any project together. Conversations between moderators (when they are more serious than discussing simple warnings) will occur in private repositories or through email, to ensure both anonymity for reporters and the safety of the moderators.
+In cases where community members transgress against the values in the Code,
+members of the Moderation team will use a three-strike warning system, where the
+aggressor will be warned twice before they are permanently excluded from our
+community spaces. This code applies to Spectrum, IRC, and GitHub, and any other
+space that this community uses for communication. For interactions between
+community members outside of this space, the code also applies if the
+interactions are reported and deemed to be interfering with community members
+safely working on any project together. Conversations between moderators (when
+they are more serious than discussing simple warnings) will occur in private
+repositories or through email, to ensure both anonymity for reporters and the
+safety of the moderators.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
-
