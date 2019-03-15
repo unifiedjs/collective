@@ -452,6 +452,9 @@ not include **[core team][core]** members.
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
     &lt;liv@fastmail.com>
+*   Richard Littauer
+    ([**@RichardLitt**](https://github.com/RichardLitt))
+    &lt;richard@maintainer.io>
 
 ## Glossary
 
