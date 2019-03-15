@@ -49,6 +49,7 @@ members steering them.
     *   [Core team](#core-team)
     *   [Moderation team](#moderation-team)
 *   [Glossary](#glossary)
+*   [Code of Conduct](#code-of-conduct)
 *   [License](#license)
 
 ## Teams
@@ -478,6 +479,16 @@ not projects in the sense that they include code.
 An initiative is a non-trivial change that significantly affects users.
 Teams must define what they deem **trivial** or **significant**.
 
+## Code of Conduct
+
+We follow the Contributor Covenant [Code of Conduct][coc].
+Please read it at your leisure, as you agree to abide by it by interacting with
+[**@unifiedjs**](https://github.com/unifiedjs) on GitHub.
+
+This Code of Conduct should be copied to all documentation repositories for each
+project, and applies to every repository in the wider
+[**@unifiedjs**](https://github.com/unifiedjs) ecosystem.
+
 ## License
 
 This work is licensed under a
@@ -504,5 +515,7 @@ docs][node].
 [rust]: https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md
 
 [node]: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
+
+[coc]: code-of-conduct.md
 
 [license]: https://creativecommons.org/licenses/by/4.0/
