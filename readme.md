@@ -282,6 +282,9 @@ The **mdx team** is an **[organization][]** team responsible for
 *   James K. Nelson
     ([**@jamesknelson**](https://github.com/jamesknelson))
     &lt;james@jamesknelson.com>
+*   Jarred Sumner
+    ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
+    &lt;jarred@jarredsumner.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
