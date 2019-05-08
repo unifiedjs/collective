@@ -180,6 +180,9 @@ The **remark team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Jonathan Haines
+    ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
+    &lt;jonno.haines@gmail.com>
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
@@ -357,6 +360,9 @@ The **syntax tree team** is an **[organization][]** team responsible for
 
 #### Members
 
+*   Jonathan Haines
+    ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
+    &lt;jonno.haines@gmail.com>
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
