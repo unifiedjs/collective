@@ -15,7 +15,7 @@ experience.
 
 Maintainers of outside projects can grant governance of a project to the
 organization team.
-If the team accepts governance, the project modes under the organization.
+If the team accepts governance, the project moves under the organization.
 Previous maintainers become outside collaborators and loose and gain some
 rights.
 
