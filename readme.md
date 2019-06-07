@@ -192,6 +192,9 @@ The **remark team** is an **[organization][]** team responsible for
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
     &lt;fluke8259@gmail.com>
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Marouane Fazouane
     ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
     &lt;fazouanem3@gmail.com>
@@ -228,6 +231,9 @@ The **rehype team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
@@ -366,6 +372,9 @@ The **syntax tree team** is an **[organization][]** team responsible for
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
