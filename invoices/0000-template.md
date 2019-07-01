@@ -8,7 +8,7 @@
 
 | Item                 | Description                                                                                                                         | Hours | Total   |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----- | ------- |
-| unifiedjs/governance | On the left hand side add a link to a relevant PR, GH organization, repo, or other link with your work. In this column describe it. | _XX_  | **$YY** |
+| unifiedjs/governance | On the left hand side add a link to a relevant PR, GH organization, repo, or other link with your work. In this column describe it. | *XX*  | **$YY** |
 
 * * *
 

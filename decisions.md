@@ -15,19 +15,19 @@ organization teams, without compromising simplicity for either of them.
 Generally, when making a decision or proposing something new, it depends in
 what **scope** you’re acting in:
 
-*   If it’s a change that _impacts the entire unified collective_:
+*   If it’s a change that *impacts the entire unified collective*:
     Open an RFC ([link][rfc])
-*   If it’s a change that _impacts one or multiple organizations_:
+*   If it’s a change that *impacts one or multiple organizations*:
     Open an RFC ([link][rfc])
-*   If it’s a change that _impacts multiple projects inside of a single
-    organization_:
+*   If it’s a change that *impacts multiple projects inside of a single
+    organization*:
     Ask the project’s organization team first ([link][local])
-*   If it’s a change that _only impacts one project inside an organization_:
+*   If it’s a change that *only impacts one project inside an organization*:
     Open an issue in that project ([link][local])
 
 ## The RFC Process
 
-An **RFC** (_Request for Changes_) is a document written to justify a change
+An **RFC** (*Request for Changes*) is a document written to justify a change
 or decision.
 This document is proposed via opening a Pull Request.
 Once it has been merged, the changes detailed in it are implemented into the
