@@ -159,16 +159,19 @@ The **unified team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
+
+#### Emeriti
+
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
     &lt;zeusdeux@gmail.com>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
@@ -201,12 +204,6 @@ The **remark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
-*   Mudit Ameta
-    ([**@zeusdeux**](https://github.com/zeusdeux))
-    &lt;zeusdeux@gmail.com>
-*   Nikita Sobolev
-    ([**@sobolevn**](https://github.com/sobolevn))
-    &lt;mail@sobolevn.me>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -217,6 +214,15 @@ The **remark team** is an **[organization][]** team responsible for
 *   Zeke Sikelianos
     ([**@zeke**](https://github.com/zeke))
     &lt;zeke@sikelianos.com>
+
+#### Emeriti
+
+*   Mudit Ameta
+    ([**@zeusdeux**](https://github.com/zeusdeux))
+    &lt;zeusdeux@gmail.com>
+*   Nikita Sobolev
+    ([**@sobolevn**](https://github.com/sobolevn))
+    &lt;mail@sobolevn.me>
 
 ### rehype team
 
@@ -241,6 +247,9 @@ The **rehype team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+
+#### Emeriti
+
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
@@ -255,13 +264,16 @@ The **retext team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
-*   Richard Littauer
-    ([**@RichardLitt**](https://github.com/RichardLitt))
-    &lt;richard@maintainer.io>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+
+#### Emeriti
+
+*   Richard Littauer
+    ([**@RichardLitt**](https://github.com/RichardLitt))
+    &lt;richard@maintainer.io>
 
 ### redot team
 
@@ -288,9 +300,6 @@ The **mdx team** is an **[organization][]** team responsible for
 *   Christopher Biscardi
     ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
     &lt;chris@christopherbiscardi.com>
-*   James K. Nelson
-    ([**@jamesknelson**](https://github.com/jamesknelson))
-    &lt;james@jamesknelson.com>
 *   Jarred Sumner
     ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
     &lt;jarred@jarredsumner.com>
@@ -301,12 +310,6 @@ The **mdx team** is an **[organization][]** team responsible for
 *   Matija Marohnić
     ([**@silvenon**](https://github.com/silvenon))
     &lt;matija.marohnic@gmail.com>
-*   Mudit Ameta
-    ([**@zeusdeux**](https://github.com/zeusdeux))
-    &lt;zeusdeux@gmail.com>
-*   Stephan Schneider
-    ([**@zcei**](https://github.com/zcei))
-    &lt;stephanschndr@gmail.com>
 *   Tim Neutkens
     ([**@timneutkens**](https://github.com/timneutkens))
     &lt;tim@zeit.co>
@@ -325,6 +328,12 @@ The **mdx team** is an **[organization][]** team responsible for
 *   Guillermo Rauch
     ([**@rauchg**](https://github.com/rauchg))
     &lt;rauchg@gmail.com>
+*   Mudit Ameta
+    ([**@zeusdeux**](https://github.com/zeusdeux))
+    &lt;zeusdeux@gmail.com>
+*   Stephan Schneider
+    ([**@zcei**](https://github.com/zcei))
+    &lt;stephanschndr@gmail.com>
 *   Jessica Stokes
     ([**@ticky**](https://github.com/ticky))
     &lt;hello@jessicastokes.net>
@@ -345,16 +354,19 @@ The **micromark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
+
+#### Emeriti
+
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
     &lt;zeusdeux@gmail.com>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
@@ -393,13 +405,16 @@ The **vfile team** is an **[organization][]** team responsible for
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
-*   Olivia Hugger
-    ([**@komaeda**](https://github.com/komaeda))
-    &lt;liv@fastmail.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
     (**lead**)
+
+#### Emeriti
+
+*   Olivia Hugger
+    ([**@komaeda**](https://github.com/komaeda))
+    &lt;liv@fastmail.com>
 
 ## Collective teams
 
@@ -449,15 +464,18 @@ They additionally:
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+
+#### Emeriti
+
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
     &lt;richard@maintainer.io>
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
 
 ### Moderation team
 
