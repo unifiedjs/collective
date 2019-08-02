@@ -158,6 +158,9 @@ The **unified team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Junyoung Choi
+    ([**@Rokt33r**](https://github.com/Rokt33r))
+    &lt;fluke8259@gmail.com>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
@@ -448,6 +451,9 @@ The **vfile team** is an **[organization][]** team responsible for
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
+*   Junyoung Choi
+    ([**@Rokt33r**](https://github.com/Rokt33r))
+    &lt;fluke8259@gmail.com>
 
 ##### Releasers
 
