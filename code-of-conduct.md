@@ -57,7 +57,7 @@ maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at richard@maintainer.io, which will go
-only to Richard Littauer, or to liv@fastmail.com, which will go only to Olivia
+only to Richard Littauer, or to mokou@posteo.de, which will go only to Olivia
 Hugger.
 You may also cc both.
 All complaints will be reviewed and investigated and will result in a response
