@@ -150,15 +150,23 @@ The **unified team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
+*   Junyoung Choi
+    ([**@Rokt33r**](https://github.com/Rokt33r))
+    &lt;fluke8259@gmail.com>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+
+##### Releasers
+
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -183,15 +191,14 @@ The **remark team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Jonathan Haines
     ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
     &lt;jonno.haines@gmail.com>
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    &lt;johnotander@gmail.com>
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
     &lt;fluke8259@gmail.com>
@@ -204,16 +211,22 @@ The **remark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
 *   Zeke Sikelianos
     ([**@zeke**](https://github.com/zeke))
     &lt;zeke@sikelianos.com>
+
+##### Releasers
+
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
 
 #### Emeriti
 
@@ -231,18 +244,23 @@ The **rehype team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    &lt;keith@mcknig.ht>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+
+##### Releasers
+
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -261,9 +279,14 @@ The **retext team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+
+##### Releasers
+
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -282,6 +305,12 @@ The **redot team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
+None.
+
+##### Releasers
+
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
@@ -297,12 +326,17 @@ The **mdx team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Christopher Biscardi
     ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
     &lt;chris@christopherbiscardi.com>
 *   Jarred Sumner
     ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
     &lt;jarred@jarredsumner.com>
+
+##### Releasers
+
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
@@ -345,6 +379,8 @@ The **micromark team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
@@ -354,6 +390,9 @@ The **micromark team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+
+##### Releasers
+
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -378,18 +417,23 @@ The **syntax tree team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Jonathan Haines
     ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
     &lt;jonno.haines@gmail.com>
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    &lt;keith@mcknig.ht>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+
+##### Releasers
+
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -402,9 +446,17 @@ The **vfile team** is an **[organization][]** team responsible for
 
 #### Members
 
+##### Mergers
+
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
+*   Junyoung Choi
+    ([**@Rokt33r**](https://github.com/Rokt33r))
+    &lt;fluke8259@gmail.com>
+
+##### Releasers
+
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
