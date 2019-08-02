@@ -249,15 +249,15 @@ The **rehype team** is an **[organization][]** team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     &lt;johnotander@gmail.com>
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    &lt;keith@mcknig.ht>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
 ##### Releasers
 
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
@@ -422,15 +422,15 @@ The **syntax tree team** is an **[organization][]** team responsible for
 *   Christian Murphy
     ([**@christianmurphy**](https://github.com/christianmurphy))
     &lt;christian.murphy.42@gmail.com>
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    &lt;keith@mcknig.ht>
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
 ##### Releasers
 
+*   Keith McKnight
+    ([**@kmck**](https://github.com/kmck))
+    &lt;keith@mcknig.ht>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
