@@ -148,12 +148,21 @@ individuals should additionally be classified as mergers, but not releasers.
 The **unified team** is an **[organization][]** team responsible for
 [**@unifiedjs**](https://github.com/unifiedjs).
 
+<!--humans start team=unified shift=3-->
+
 #### Members
+
+##### Releasers
+
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
 
 ##### Mergers
 
 *   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
     &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
@@ -164,13 +173,6 @@ The **unified team** is an **[organization][]** team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
-
-##### Releasers
-
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
 
 #### Emeriti
 
@@ -184,21 +186,35 @@ The **unified team** is an **[organization][]** team responsible for
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
 
+<!--humans end-->
+
 ### remark team
 
 The **remark team** is an **[organization][]** team responsible for
 [**@remarkjs**](https://github.com/remarkjs).
 
+<!--humans start team=remark shift=3-->
+
 #### Members
+
+##### Releasers
+
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
 
 ##### Mergers
 
+*   Christian Murphy
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+    &lt;christian.murphy.42@gmail.com>
 *   Jonathan Haines
     ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
     &lt;jonno.haines@gmail.com>
-*   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
-    &lt;christian.murphy.42@gmail.com>
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
     &lt;fluke8259@gmail.com>
@@ -218,16 +234,6 @@ The **remark team** is an **[organization][]** team responsible for
     ([**@zeke**](https://github.com/zeke))
     &lt;zeke@sikelianos.com>
 
-##### Releasers
-
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    &lt;johnotander@gmail.com>
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
-
 #### Emeriti
 
 *   Mudit Ameta
@@ -237,24 +243,16 @@ The **remark team** is an **[organization][]** team responsible for
     ([**@sobolevn**](https://github.com/sobolevn))
     &lt;mail@sobolevn.me>
 
+<!--humans end-->
+
 ### rehype team
 
 The **rehype team** is an **[organization][]** team responsible for
 [**@rehypejs**](https://github.com/rehypejs).
 
+<!--humans start team=rehype shift=3-->
+
 #### Members
-
-##### Mergers
-
-*   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
-    &lt;christian.murphy.42@gmail.com>
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    &lt;johnotander@gmail.com>
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    &lt;merlijn@soverin.net>
 
 ##### Releasers
 
@@ -266,18 +264,41 @@ The **rehype team** is an **[organization][]** team responsible for
     &lt;tituswormer@gmail.com>
     (**lead**)
 
+##### Mergers
+
+*   Christian Murphy
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+    &lt;christian.murphy.42@gmail.com>
+*   John Otander
+    ([**@johno**](https://github.com/johno))
+    &lt;johnotander@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
+
 #### Emeriti
 
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
 
+<!--humans end-->
+
 ### retext team
 
 The **retext team** is an **[organization][]** team responsible for
 [**@retextjs**](https://github.com/retextjs).
 
+<!--humans start team=retext shift=3-->
+
 #### Members
+
+##### Releasers
+
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
 
 ##### Mergers
 
@@ -285,55 +306,47 @@ The **retext team** is an **[organization][]** team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
-##### Releasers
-
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
-
 #### Emeriti
 
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
     &lt;richard@maintainer.io>
 
+<!--humans end-->
+
 ### redot team
 
 The **redot team** is an **[organization][]** team responsible for
 [**@redotjs**](https://github.com/redotjs).
 
+<!--humans start team=redot shift=3-->
+
 #### Members
-
-##### Mergers
-
-None.
 
 ##### Releasers
 
 *   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
     &lt;christian.murphy.42@gmail.com>
     (**lead**)
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
 
+##### Mergers
+
+None.
+
+<!--humans end-->
+
 ### mdx team
 
 The **mdx team** is an **[organization][]** team responsible for
 [**@mdx-js**](https://github.com/mdx-js).
 
+<!--humans start team=mdx shift=3-->
+
 #### Members
-
-##### Mergers
-
-*   Christopher Biscardi
-    ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
-    &lt;chris@christopherbiscardi.com>
-*   Jarred Sumner
-    ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
-    &lt;jarred@jarredsumner.com>
 
 ##### Releasers
 
@@ -351,33 +364,53 @@ The **mdx team** is an **[organization][]** team responsible for
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
 
+##### Mergers
+
+*   Christopher Biscardi
+    ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
+    &lt;chris@christopherbiscardi.com>
+*   Jarred Sumner
+    ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
+    &lt;jarred@jarredsumner.com>
+
 #### Emeriti
 
 *   Adam Morse
     ([**@mrmrs**](https://github.com/mrmrs))
     &lt;hi@mrmrs.cc>
+*   Ahmad Awais
+    ([**@ahmadawais**](https://github.com/ahmadawais))
+    &lt;me@AhmadAwais.com>
 *   Brent Jackson
     ([**@jxnblk**](https://github.com/jxnblk))
     &lt;jxnblk@gmail.com>
 *   Guillermo Rauch
     ([**@rauchg**](https://github.com/rauchg))
     &lt;rauchg@gmail.com>
-*   Mudit Ameta
-    ([**@zeusdeux**](https://github.com/zeusdeux))
-    &lt;zeusdeux@gmail.com>
-*   Stephan Schneider
-    ([**@zcei**](https://github.com/zcei))
-    &lt;stephanschndr@gmail.com>
 *   Jessica Stokes
     ([**@ticky**](https://github.com/ticky))
     &lt;hello@jessicastokes.net>
+*   Stephan Schneider
+    ([**@zcei**](https://github.com/zcei))
+    &lt;stephanschndr@gmail.com>
+
+<!--humans end-->
 
 ### micromark team
 
 The **micromark team** is an **[organization][]** team responsible for
 [**@micromark**](https://github.com/micromark).
 
+<!--humans start team=micromark shift=3-->
+
 #### Members
+
+##### Releasers
+
+*   Titus Wormer
+    ([**@wooorm**](https://github.com/wooorm))
+    &lt;tituswormer@gmail.com>
+    (**lead**)
 
 ##### Mergers
 
@@ -391,13 +424,6 @@ The **micromark team** is an **[organization][]** team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
-##### Releasers
-
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    &lt;tituswormer@gmail.com>
-    (**lead**)
-
 #### Emeriti
 
 *   Mudit Ameta
@@ -410,24 +436,16 @@ The **micromark team** is an **[organization][]** team responsible for
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
 
+<!--humans end-->
+
 ### syntax tree team
 
 The **syntax tree team** is an **[organization][]** team responsible for
 [**@syntax-tree**](https://github.com/syntax-tree).
 
+<!--humans start team="syntax tree" shift=3-->
+
 #### Members
-
-##### Mergers
-
-*   Jonathan Haines
-    ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
-    &lt;jonno.haines@gmail.com>
-*   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
-    &lt;christian.murphy.42@gmail.com>
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    &lt;merlijn@soverin.net>
 
 ##### Releasers
 
@@ -439,21 +457,28 @@ The **syntax tree team** is an **[organization][]** team responsible for
     &lt;tituswormer@gmail.com>
     (**lead**)
 
+##### Mergers
+
+*   Christian Murphy
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+    &lt;christian.murphy.42@gmail.com>
+*   Jonathan Haines
+    ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
+    &lt;jonno.haines@gmail.com>
+*   Merlijn Vos
+    ([**@Murderlon**](https://github.com/Murderlon))
+    &lt;merlijn@soverin.net>
+
+<!--humans end-->
+
 ### vfile team
 
 The **vfile team** is an **[organization][]** team responsible for
 [**@vfile**](https://github.com/vfile).
 
+<!--humans start team=vfile shift=3-->
+
 #### Members
-
-##### Mergers
-
-*   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
-    &lt;christian.murphy.42@gmail.com>
-*   Junyoung Choi
-    ([**@Rokt33r**](https://github.com/Rokt33r))
-    &lt;fluke8259@gmail.com>
 
 ##### Releasers
 
@@ -462,11 +487,22 @@ The **vfile team** is an **[organization][]** team responsible for
     &lt;tituswormer@gmail.com>
     (**lead**)
 
+##### Mergers
+
+*   Christian Murphy
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+    &lt;christian.murphy.42@gmail.com>
+*   Junyoung Choi
+    ([**@Rokt33r**](https://github.com/Rokt33r))
+    &lt;fluke8259@gmail.com>
+
 #### Emeriti
 
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
     &lt;liv@fastmail.com>
+
+<!--humans end-->
 
 ## Collective teams
 
@@ -505,10 +541,12 @@ They additionally:
     Emeriti may request that the their status is restored.
 *   **Offboard team members**.
 
+<!--humans start team=core shift=3-->
+
 #### Members
 
 *   Christian Murphy
-    ([**@christianmurphy**](https://github.com/christianmurphy))
+    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
     &lt;christian.murphy.42@gmail.com>
 *   John Otander
     ([**@johno**](https://github.com/johno))
@@ -529,12 +567,16 @@ They additionally:
     ([**@zcei**](https://github.com/zcei))
     &lt;stephanschndr@gmail.com>
 
+<!--humans end-->
+
 ### Moderation team
 
 The **moderation team** is a **[collective][]** team responsible for enforcing
 the code of conduct.
 This team does not have a leader and, to limit conflicts of interest, **should**
 not include **[core team][core]** members.
+
+<!--humans start team=moderation shift=3-->
 
 #### Members
 
@@ -544,6 +586,8 @@ not include **[core team][core]** members.
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
     &lt;richard@maintainer.io>
+
+<!--humans end-->
 
 ## Glossary
 

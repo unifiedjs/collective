@@ -1,0 +1,100 @@
+- name: core
+  collective: true
+  humans:
+    ChristianMurphy: member
+    johno: member
+    Murderlon: member
+    wooorm: member
+    RichardLitt: emeritus
+    zcei: emeritus
+- name: moderation
+  collective: true
+  humans:
+    komaeda: member
+    RichardLitt: member
+- name: unified
+  lead: wooorm
+  humans:
+    wooorm: releaser
+    ChristianMurphy: merger
+    johno: merger
+    Murderlon: merger
+    Rokt33r: merger
+    vhf: emeritus
+    zcei: emeritus
+    zeusdeux: emeritus
+- name: remark
+  lead: wooorm
+  humans:
+    johno: releaser
+    wooorm: releaser
+    BarryThePenguin: merger
+    ChristianMurphy: merger
+    fazouane-marouane: merger
+    kmck: merger
+    Murderlon: merger
+    Rokt33r: merger
+    vhf: merger
+    zeke: merger
+    sobolevn: emeritus
+    zeusdeux: emeritus
+- name: rehype
+  lead: wooorm
+  humans:
+    wooorm: releaser
+    kmck: releaser
+    ChristianMurphy: merger
+    johno: merger
+    Murderlon: merger
+    vhf: emeritus
+- name: retext
+  lead: wooorm
+  humans:
+    wooorm: releaser
+    Murderlon: merger
+    RichardLitt: emeritus
+- name: redot
+  lead: ChristianMurphy
+  humans:
+    ChristianMurphy: releaser
+    wooorm: releaser
+- name: micromark
+  lead: wooorm
+  humans:
+    wooorm: releaser
+    fazouane-marouane: merger
+    johno: merger
+    Murderlon: merger
+    vhf: emeritus
+    zcei: emeritus
+    zeusdeux: emeritus
+- name: mdx
+  lead: johno
+  humans:
+    johno: releaser
+    silvenon: releaser
+    timneutkens: releaser
+    wooorm: releaser
+    ChristopherBiscardi: merger
+    Jarred-Sumner: merger
+    ahmadawais: emeritus
+    jxnblk: emeritus
+    mrmrs: emeritus
+    rauchg: emeritus
+    ticky: emeritus
+    zcei: emeritus
+- name: vfile
+  lead: wooorm
+  humans:
+    wooorm: releaser
+    ChristianMurphy: merger
+    Rokt33r: merger
+    komaeda: emeritus
+- name: syntax tree
+  lead: wooorm
+  humans:
+    wooorm: releaser
+    kmck: releaser
+    BarryThePenguin: merger
+    ChristianMurphy: merger
+    Murderlon: merger

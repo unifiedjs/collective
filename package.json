@@ -12,16 +12,35 @@
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
   "devDependencies": {
+    "js-yaml": "^3.0.0",
+    "mdast-comment-marker": "^1.0.0",
+    "mdast-zone": "^3.0.0",
+    "prettier": "^1.0.0",
     "remark-cli": "^7.0.0",
-    "remark-preset-wooorm": "^6.0.0"
+    "remark-preset-wooorm": "^6.0.0",
+    "unist-builder": "^1.0.0",
+    "xo": "^0.24.0"
   },
   "scripts": {
-    "format": "remark . -qfo",
+    "format": "remark . -qfo && prettier --write \"**/*.js\" && xo --fix",
     "test": "npm run format"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true,
+    "esnext": false
   },
   "remarkConfig": {
     "plugins": [
-      "preset-wooorm"
+      "preset-wooorm",
+      "./script/list-of-humans"
     ]
   }
 }
