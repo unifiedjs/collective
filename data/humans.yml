@@ -1,0 +1,109 @@
+- name: Adam Morse
+  email: hi@mrmrs.cc
+  url: https://mrmrs.cc
+  github: mrmrs
+  npm: mrmrs
+- name: Ahmad Awais
+  email: me@AhmadAwais.com
+  github: ahmadawais
+  npm: mrahmadawais
+- name: Brent Jackson
+  email: jxnblk@gmail.com
+  url: https://jxnblk.com
+  github: jxnblk
+  npm: jxnblk
+- name: Christian Murphy
+  email: christian.murphy.42@gmail.com
+  github: ChristianMurphy
+  npm: christianmurphy
+- name: Christopher Biscardi
+  email: chris@christopherbiscardi.com
+  url: https://www.christopherbiscardi.com
+  github: ChristopherBiscardi
+  npm: biscarch
+- name: Guillermo Rauch
+  email: rauchg@gmail.com
+  url: https://rauchg.com
+  github: rauchg
+  npm: rauchg
+- name: Jarred Sumner
+  email: jarred@jarredsumner.com
+  url: https://jarredsumner.com
+  github: Jarred-Sumner
+- name: Jessica Stokes
+  email: hello@jessicastokes.net
+  github: ticky
+  npm: ticky
+- name: John Otander
+  email: johnotander@gmail.com
+  url: http://johnotander.com
+  github: johno
+  npm: johno
+- name: Jonathan Haines
+  email: jonno.haines@gmail.com
+  github: BarryThePenguin
+  npm: barrythepenguin
+- name: Junyoung Choi
+  email: fluke8259@gmail.com
+  url: https://rokt33r.github.io
+  github: Rokt33r
+  npm: rokt33r
+- name: Keith McKnight
+  email: keith@mcknig.ht
+  url: https://keith.mcknig.ht
+  github: kmck
+  npm: kmck
+- name: Marouane Fazouane
+  email: fazouanem3@gmail.com
+  github: fazouane-marouane
+  npm: fazouane-marouane
+- name: Matija Marohnić
+  email: matija.marohnic@gmail.com
+  url: https://silvenon.com
+  github: silvenon
+  npm: silvenon
+- name: Merlijn Vos
+  email: merlijn@soverin.net
+  github: Murderlon
+  npm: murderlon
+- name: Mudit Ameta
+  email: zeusdeux@gmail.com
+  url: https://mudit.xyz
+  github: zeusdeux
+  npm: zeusdeux
+- name: Nikita Sobolev
+  email: mail@sobolevn.me
+  github: sobolevn
+  npm: sobolevn
+- name: Olivia Hugger
+  email: mokou@posteo.de
+  github: komaeda
+  npm: komaeda
+- name: Richard Littauer
+  email: richard@maintainer.io
+  url: https://burntfen.com
+  github: RichardLitt
+  npm: richardlitt
+- name: Stephan Schneider
+  email: stephanschndr@gmail.com
+  github: zcei
+  npm: zcei
+- name: Tim Neutkens
+  email: tim@zeit.co
+  github: timneutkens
+  npm: timneutkens
+- name: Titus Wormer
+  email: tituswormer@gmail.com
+  url: https://wooorm.com
+  github: wooorm
+  npm: wooorm
+- name: Victor Felder
+  email: victor@draft.li
+  url: https://draft.li
+  github: vhf
+  npm: vhf
+- name: Zeke Sikelianos
+  email: zeke@sikelianos.com
+  url: http://zeke.sikelianos.com
+  github: zeke
+  npm: zeke
