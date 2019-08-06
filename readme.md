@@ -372,6 +372,9 @@ The **mdx team** is an **[organization][]** team responsible for
 *   Jarred Sumner
     ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
     &lt;jarred@jarredsumner.com>
+*   Sidhartha Chatterjee
+    ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
+    &lt;me@sidharthachatterjee.com>
 
 #### Emeriti
 
