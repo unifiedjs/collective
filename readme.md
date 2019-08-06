@@ -500,7 +500,7 @@ The **vfile team** is an **[organization][]** team responsible for
 
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
-    &lt;liv@fastmail.com>
+    &lt;mokou@posteo.de>
 
 <!--humans end-->
 
@@ -582,7 +582,7 @@ not include **[core team][core]** members.
 
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
-    &lt;liv@fastmail.com>
+    &lt;mokou@posteo.de>
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
     &lt;richard@maintainer.io>
