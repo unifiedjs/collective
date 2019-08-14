@@ -12,5 +12,5 @@
 
 * * *
 
-*   **Other relevant**: <https://unified.js.org>
+*   **Other relevant**: <https://unifiedjs.com>
 *   **Links**: <https://github.com/unifiedjs>
