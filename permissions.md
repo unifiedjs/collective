@@ -176,7 +176,7 @@ They are respectively owned by [**@wooorm**][wooorm] and [**@johno**][johno].
 The reason for this is that Spectrum allows one owner.
 
 It is optional for members of the unified collective to be present on Spectrum.
-Members without a presence are disregards in this section.
+Members without a presence are disregarded in this section.
 
 Active members of the MDX team that are present on Spectrum, are marked as team
 members in the `mdx` community.
