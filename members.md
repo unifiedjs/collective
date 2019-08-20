@@ -8,8 +8,6 @@ inviting, onboarding, awarding, succession, and offboarding.
 
 This document is developed by the unified collective core team.
 
-## Summary
-
 ## Table of Contents
 
 *   [Persons](#persons)
