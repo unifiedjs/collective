@@ -72,7 +72,7 @@ The collective defines how projects are managed in the *Management* section.
 Organizations can have **meta projects** that to discuss maintenance and
 management.
 Some meta projects are required by the collective, as described in the
-*Required projects* section.
+*Meta projects* section.
 
 ### Maintenance
 
@@ -107,7 +107,7 @@ Core (maintainers of the collective core team) may not use their administrative
 permissions, except when explicitly allowed by collective governance
 documentation, or when edge-cases occur that are not yet covered by collective
 governance documentation.
-Core may, however, participate as allowed by their other roles (such as that
+Core may, of course, participate as allowed by their other roles (such as that
 they may maintain a project if they are a maintainer on an organization team).
 
 ### Management
@@ -116,8 +116,8 @@ Some persons may initiate the management of a project by requesting a relevant
 formal motion.
 Other management initiatives, such as creating a new project or moving a project
 into the collective, are intentionally informal.
-These informal initiatives still cause changes if the project is thereafter
-subject to the governance policies of the collective.
+These informal initiatives still cause changes to the project if the project is
+thereafter subject to the governance policies of the collective.
 
 Any member may **create a new project**.
 This is an informal initiative and does not involve requesting a motion.
@@ -151,16 +151,22 @@ This is a formal initiative that involves a *motion to delete a project*.
 The collective dictates that organization teams set up several meta projects.
 These projects and their requirements are as follows:
 
+###### `governance`
+
+The `governance` project documents how the organization is governed.
+The governance project links to different policies from the collective, and
+states where and how organization policies deviate.
+
 ###### `.github`
 
 The `.github` project contains community health files for the organization.
 This project has a special name supported by GitHub to provide default community
 health files for a whole organization.
-As the unified collective organizations typically consists of many projects,
-it makes sense to maintain them in one place instead of in every project.
+As unified collective organizations typically consists of many projects, having
+defaults makes sense.
 Other projects may overwrite these files.
 
-It should include:
+It should include the following health files:
 
 *   `.github/ISSUE_TEMPLATE/*.md`:
     Templates that guide new issues ([example][c-issue])
@@ -178,13 +184,6 @@ It should include:
     Docs that explain how to get support ([example][c-support])
 
 Furthermore, it should include a `readme.md`.
-
-###### `governance`
-
-The `governance` project contains documentation on how the organization is
-governed.
-The governance project must link to different policies from the collective,
-and state where and how organization policies deviate.
 
 ## Motions
 
@@ -207,8 +206,8 @@ request the motion.
 The movant is tasked with convincing the team to accept the motion.
 Any maintainer of the team may vote.
 
-When the motion is accepted, the lead of the team, enacts the motion by
-following the *archival* playbook.
+When the motion is accepted, the lead of the team enacts the motion by following
+the *archival* playbook.
 
 Nothing happens when the motion is dismissed.
 
@@ -224,8 +223,8 @@ motion.
 The movant is tasked with convincing the team to accept the motion.
 Any collective core team maintainer may vote.
 
-When the motion is accepted, the lead of the team, enacts the motion by
-following the *removal* playbook.
+When the motion is accepted, the lead of the team enacts the motion by following
+the *removal* playbook.
 
 Nothing happens when the motion is dismissed.
 
@@ -240,8 +239,8 @@ motion.
 The movant is tasked with convincing the team to accept the motion.
 Any collective core team maintainer may vote.
 
-When the motion is accepted, the lead of the team, enacts the motion by
-following the *withdrawal* playbook.
+When the motion is accepted, the lead of the team enacts the motion by following
+the *withdrawal* playbook.
 
 Nothing happens when the motion is dismissed.
 
@@ -257,10 +256,10 @@ agree with the proposed changes in governance.
 The movant is tasked with convincing the team to accept the motion.
 Any maintainer of the team may vote.
 
-When the motion is accepted, the lead of the team, enacts the motion.
+When the motion is accepted, the lead of the team enacts the motion.
 If the outside maintainer is not a member of the team, the enactor first follows
 the *inviting* playbook.
-Then, the motion is enacted by following the *granting* playbook.
+The enactor follows the *granting* playbook.
 
 When the motion is dismissed, the project is ineligible to be granted again for
 six months.
@@ -276,10 +275,10 @@ The *archival* playbook is followed when a *motion to archive a project* is
 accepted.
 The enactor of the playbook is a lead of a team.
 The result of *archival* is that packages are deprecated and a repository is
-archived as the project no longer maintained by the collective.
+archived, because the project no longer maintained by the collective.
 
-*   If the project includes packages published on npm, enactor (or a by the
-    enactor appointed releaser) deprecates them when needed
+*   If the project includes published packages, enactor (or a by the enactor
+    appointed releaser) deprecates them when needed
 *   Enactor may close open issues and pull requests to notify persons that the
     project is no longer maintained
 *   Enactor updates the repository description on GitHub to state that the
@@ -292,10 +291,10 @@ The *removal* playbook is followed when a *motion to delete a project* is
 accepted.
 The enactor of the playbook is a lead of a team.
 The result of *removal* is that packages are deprecated and a repository is
-permanently deleted.
+deleted.
 
-*   If the project includes packages published on npm, enactor (or a by the
-    enactor appointed releaser) deprecates them when needed
+*   If the project includes published packages, enactor (or a by the enactor
+    appointed releaser) deprecates them when needed
 *   Enactor deletes the repository on GitHub
 
 ### Withdrawal
@@ -309,9 +308,9 @@ collective.
 
 *   Enactor removes references to the unified collective from the project
 *   Enactor transfers the project to person
-*   If the project includes packages published on npm, enactor (or a by the
-    enactor appointed releaser) moves them from the organization to their own
-    account, and invites person as a maintainer to all packages on npm
+*   If the project includes published packages, enactor (or a by the enactor
+    appointed releaser) moves them from the organization to their own account,
+    and invites person as a maintainer to all packages
 *   If there are guest maintainers associated with the project, enactor removes
     them from [`github-tools`][gh-tools]
 
@@ -325,15 +324,14 @@ The result of *granting* is that a project comes under governance of the
 collective.
 
 *   Member transfers the project to enactor
-*   If the project includes packages published on npm, member invites
-    [**@wooorm**][wooorm] as a maintainer to all packages on npm
+*   If the project includes published packages, member invites
+    [**@wooorm**][wooorm] as a maintainer to all packages
 *   Enactor transfers the project to the organization
-*   If the member is contributor on the team, enactor configures the member as
-    a guest maintainer in [`github-tools`][gh-tools]
+*   If the member is contributor on the team, enactor configures member as a
+    guest maintainer in [`github-tools`][gh-tools]
 *   Tooling will automatically update [permissions][] on GitHub and npm within
     24 hours.
-    Enactor may have to manually perform destructive actions as reported by
-    tooling
+    Enactor may have to manually perform actions as reported by tooling
 *   Enactor and member make sure the project matches other projects inside the
     organization, such as having a “Contributing” section, a proper license,
     etc.
