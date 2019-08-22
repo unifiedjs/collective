@@ -1,33 +1,25 @@
-# unified Collective Permissions Policy Draft
+# Permissions
 
-This policy describes permissions the people in the collective have across
-several services.
+This document describes the permissions that members of the collective have
+across several services.
 
-Which permissions to grant is determined by optimizing for the following
+Whether to grant permissions is determined by optimizing for the following
 conflicting requirements:
 
 *   Limiting access to reduce risk
 *   Increasing access to improve the bus factor
 *   Enabling persons to move forward without undue delay
 
-Services governed by the collective include: [GitHub](#github), [npm](#npm),
-[Spectrum](#spectrum), [OpenCollective](#opencollective), [Twitter](#twitter),
-[domains](#domains), and [email](#email).
-
 This document is developed by the unified collective core team.
 
-## Table of Contents
+## Table of contents
 
 *   [GitHub](#github)
-    *   [Summary](#summary)
-    *   [GitHub Organization](#github-organization)
-    *   [GitHub Teams](#github-teams)
-    *   [Repositories](#repositories)
+    *   [GitHub organization](#github-organization)
+    *   [GitHub teams](#github-teams)
 *   [npm](#npm)
-    *   [Summary](#summary-1)
-    *   [npm Organization](#npm-organization)
-    *   [npm Teams](#npm-teams)
-    *   [Packages](#packages)
+    *   [npm organization](#npm-organization)
+    *   [npm teams](#npm-teams)
 *   [Spectrum](#spectrum)
 *   [OpenCollective](#opencollective)
 *   [Twitter](#twitter)
@@ -39,134 +31,76 @@ This document is developed by the unified collective core team.
 
 [GitHub][] permissions are automated in [`github-tools`][gh-tools].
 
-It is required for members of the unified collective to have a GitHub account.
+Members are required to have a GitHub account.
 
-### Summary
+### GitHub organization
 
-*   There’s a difference between unified teams and GitHub teams
-*   Active members of the unified collective core team are owners of all GitHub
-    organizations
-*   Active members of the unified collective moderation team are members of all
-    GitHub organizations
-*   All members of a unified organization team, active or not, are members of
-    their respective GitHub organization
-*   GitHub orgs have an emeritus team.
-    Its members have **triage** permissions
-*   GitHub orgs have a mergers team.
-    Its members have with **write** permissions
-*   GitHub orgs have a releasers team.
-    Its members have **maintain** permissions
-*   GitHub orgs have a core and a moderation team.
-    Its members have **admin** permissions.
+Maintainers of the collective core team are [**owners**][gh-org-perms] of all
+GitHub organizations.
 
-### GitHub Organization
+Maintainers of the collective moderation team are [**members**][gh-org-perms] of
+all GitHub organizations.
 
-Each GitHub organization should have an admin repository, `governance`,
-detailing how the organization is governed.
+Members of an organization team are [**members**][gh-org-perms] of their
+respective GitHub organization.
 
-Active core team members are [**owners**][gh-org-perms] of all GitHub
-organizations.
-This gives them the most powerful permissions.
-
-Active moderation team members are [**members**][gh-org-perms] of all GitHub
-organizations.
-
-All members of a unified collective organization team, active or not, are
-[**members**][gh-org-perms] of their respective GitHub organization.
-
-### GitHub Teams
+### GitHub teams
 
 The GitHub organization consists of GitHub teams:
 
-*   `emeritus`
-    — Inactive members of the unified collective organization team.
-    Has [**triage**][gh-repo-perms] permissions.
-    Maintained by the releasers of the organization team.
 *   `members`
-    — Active members of the unified collective organization team.
-    Has [**triage**][gh-repo-perms] permissions.
-    Maintained by the releasers of the organization team.
+    — includes members; maintained by the lead; [**triage**][gh-repo-perms]
+    permissions
+*   `contributors`
+    — includes contributors; maintained by the lead; [**triage**][gh-repo-perms]
+    permissions
+*   `maintainers`
+    — includes maintainers; maintained by the lead; [**write**][gh-repo-perms]
+    permissions
 *   `mergers`
-    — Active mergers of the unified collective organization team.
-    Has [**write**][gh-repo-perms] permissions.
-    Maintained by the releasers of the organization team.
+    — includes mergers; maintained by the lead; [**write**][gh-repo-perms]
+    permissions
 *   `releasers`
-    — Active releasers of the unified collective organization team.
-    Has [**maintain**][gh-repo-perms] permissions.
-    Maintained by the lead of the organization team.
+    — includes releasers; maintained by the lead; [**maintain**][gh-repo-perms]
+    permissions
 *   `core`
-    — Active members of the unified collective core team.
-    Has [**admin**][gh-repo-perms] permissions.
-    Maintained by the lead of the organization team.
+    — includes collective core team maintainers; maintained by the lead;
+    [**admin**][gh-repo-perms] permissions
 *   `moderators`
-    — Active members of the unified collective moderation team.
-    Has [**admin**][gh-repo-perms] permissions.
-    Maintained by the lead of the organization team.
+    — includes collective moderation team maintainers; maintained by the lead;
+    [**admin**][gh-repo-perms] permissions
 
-Core team members and moderators will limit use of the granted admin
-capabilities to that required to carry out administrative work across the GitHub
-organizations.
-
-### Repositories
-
-Every repository in a GitHub organization is considered to be a project under
-the governance of the respective unified collective organization team and
-therefore also the unified collective.
-
-Every repository in a GitHub organization is governed by all GitHub teams.
+Maintainers of collective teams may not use their administrative permissions,
+except when explicitly allowed by collective governance documentation, or when
+edge-cases occur that are not yet covered by collective governance
+documentation.
 
 ## npm
 
 [npm][] permissions are automated in [`npm-tools`][npm-tools].
 
-It is optional for members of the unified collective to have an npm account.
-Members without an account are disregarded in this section.
+Releasers are required to have an npm account.
+Members without a known npm account are disregarded in this section.
 
-### Summary
+### npm organization
 
-*   There’s a difference between unified teams and npm teams
-*   Active members of the unified collective core team, are admins of all npm
-    organizations
-*   The lead of a unified collective organization team is an owner of their
-    respective npm organization
-*   Active members of a unified team are members of their respective npm
-    organization
-*   npm orgs have a mergers team.
-    Its members have with read permissions
-*   npm orgs have a releasers team.
-    Its members have read/write permissions
+The lead of an organization team is an [**owner**][npm-org-perms] of their
+respective npm organization.
 
-### npm Organization
+Maintainers of the collective core team are [**admins**][npm-org-perms] of all
+npm organizations.
 
-The lead of a unified collective organization team is an
-[**owner**][npm-org-perms] of the respective npm organization.
-This gives them the most powerful permissions.
+Maintainers of an organization team are [**members**][npm-org-perms] of their
+respective npm organization.
 
-Active unified collective core team members are [**admins**][npm-org-perms] of
-all npm organizations.
+### npm teams
 
-Active members of a unified organization team are [**members**][npm-org-perms]
-of their respective npm organization.
-
-### npm Teams
-
-The npm organization is divided into npm teams:
+The npm organization consists of npm teams:
 
 *   `mergers`
-    — Active mergers of the unified team.
-    Has [**read**][npm-repo-perms] permissions.
+    — includes mergers; [**read-only**][npm-repo-perms] permissions
 *   `releasers`
-    — Active releasers of the unified team.
-    Has [**read/write**][npm-repo-perms] permissions.
-
-### Packages
-
-Every package (that is parseable, valid, has a name, and is not private) in a
-repository (that is not archived) in a GitHub organization is considered to be a
-project under the governance of the respective unified collective organization
-team and therefore also the unified collective.
-
-Every package in an npm organization is governed by all teams.
+    — includes releasers; [**read-write**][npm-repo-perms] permissions
 
 ## Spectrum
 
@@ -175,24 +109,23 @@ collective.
 They are respectively owned by [**@wooorm**][wooorm] and [**@johno**][johno].
 The reason for this is that Spectrum allows one owner.
 
-It is optional for members of the unified collective to be present on Spectrum.
-Members without a presence are disregarded in this section.
+Members are not required to participate on Spectrum.
 
-Active members of the MDX team that are present on Spectrum, are marked as team
-members in the `mdx` community.
+Members of the MDX team that participate on Spectrum, are marked as team members
+in the `mdx` community.
 
-Active members of other teams that are present on Spectrum, are marked as team
-members in the `unified` community.
+Members of other teams that participate on Spectrum, are marked as team members
+in the `unified` community.
 
 ## OpenCollective
 
 The `unified` collective on [OpenCollective][] is governed by the collective.
 
-Core collective team members are admins of the Collective.
-Moderation collective team members are marked as core contributors.
+Maintainers of the collective core team are **admins** of the Collective.
+Maintainers of the collective moderation team are **core contributors** of the
+Collective.
 
-It is required for members of the core and moderation collective teams to be
-listed on OpenCollective.
+Maintainers of collective teams are required to be listed on OpenCollective.
 
 ## Twitter
 
@@ -212,30 +145,30 @@ They are respectively registered by [**@wooorm**][wooorm] and
 Email is provided by [Mailgun][] and [**@wooorm**][wooorm] has access to it.
 The reason for this is financial in nature: it is free of charge.
 
-This provides us with unified email addresses that forward to actual email
+This provides us with collective email addresses that forward to actual email
 addresses, and functionality to send from an actual email client (such as Gmail)
-as a unified email address.
+as a collective email address.
 
-The core and moderation collective teams have a personal address:
+Maintainers of collective teams have personal addresses:
 
-*   `titus@unifiedjs.com` ([**@wooorm**][wooorm]
-*   `john@unifiedjs.com` ([**@johno**][johno])
-*   `christian@unifiedjs.com` ([**@ChristianMurphy**][christianmurphy])
-*   `merlijn@unifiedjs.com` ([**@Murderlon**][murderlon])
-*   `richard@unifiedjs.com` ([**@RichardLitt**][richardlitt])
-*   `olivia@unifiedjs.com` ([**@komaeda**][komaeda])
-
-It is required for members with a `unifiedjs.com` email address to read emails
-sent to them.
+*   `titus@unifiedjs.com` — [**@wooorm**][wooorm]
+*   `john@unifiedjs.com` — [**@johno**][johno]
+*   `christian@unifiedjs.com` — [**@ChristianMurphy**][christianmurphy]
+*   `merlijn@unifiedjs.com` — [**@Murderlon**][murderlon]
+*   `richard@unifiedjs.com` — [**@RichardLitt**][richardlitt]
+*   `olivia@unifiedjs.com` — [**@komaeda**][komaeda]
 
 The following collective email addresses are in use:
 
-*   `contact@unifiedjs.com` (forwarded to the core collective team)
-*   `security@unifiedjs.com` (forwarded to the core collective team)
-*   `moderation@unifiedjs.com` (forwarded to the moderation collective team)
+*   `contact@unifiedjs.com`
+    — forwards to maintainers of the collective core team
+*   `security@unifiedjs.com`
+    — forwards to maintainers of the collective core team
+*   `moderation@unifiedjs.com`
+    — forwards to maintainers of the collective moderation team
 
-It is required for members who are forwarded these respective addresses to read
-and, when needed, respond to them.
+Maintainers of collective teams are required to read emails sent to them and,
+when needed, to respond.
 
 ## License
 
