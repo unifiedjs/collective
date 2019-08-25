@@ -58,7 +58,7 @@ If it’s a change that concerns the entirety of the collective, you should stat
 this appropriately.
 
 If the RFC only concerns a subsection of organizations, the related
-organization teams have the reponsibility of reviewing and building consensus
+organization teams have the responsibility of reviewing and building consensus
 on this RFC.
 If the RFC concerns the entire collective, the unified core team is responsible
 instead.
