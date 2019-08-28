@@ -43,8 +43,8 @@ function listOfHumans() {
 
       if (team.collective) {
         content.push(
-          byRole.member
-            ? list(team, byRole.member)
+          byRole.maintainer
+            ? list(team, byRole.maintainer)
             : u('paragraph', [u('text', 'None.')])
         )
       } else {
@@ -60,10 +60,10 @@ function listOfHumans() {
         )
       }
 
-      if (byRole.emeritus) {
+      if (byRole.contributor) {
         content.push(
-          u('heading', {depth: 1 + shift}, [u('text', 'Emeriti')]),
-          list(team, byRole.emeritus)
+          u('heading', {depth: 1 + shift}, [u('text', 'Contributors')]),
+          list(team, byRole.contributor)
         )
       }
 

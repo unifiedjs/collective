@@ -1,58 +1,58 @@
 - name: core
   collective: true
   humans:
-    ChristianMurphy: member
-    johno: member
-    Murderlon: member
-    wooorm: member
-    RichardLitt: emeritus
-    zcei: emeritus
+    ChristianMurphy: maintainer
+    johno: maintainer
+    Murderlon: maintainer
+    RichardLitt: contributor
+    wooorm: maintainer
+    zcei: contributor
 - name: moderation
   collective: true
   humans:
-    komaeda: member
-    RichardLitt: member
+    komaeda: maintainer
+    RichardLitt: maintainer
 - name: unified
   lead: wooorm
   humans:
-    wooorm: releaser
     ChristianMurphy: merger
     johno: merger
     Murderlon: merger
     Rokt33r: merger
-    vhf: emeritus
-    zcei: emeritus
-    zeusdeux: emeritus
+    vhf: contributor
+    wooorm: releaser
+    zcei: contributor
+    zeusdeux: contributor
 - name: remark
   lead: wooorm
   humans:
-    johno: releaser
-    wooorm: releaser
     BarryThePenguin: merger
     ChristianMurphy: merger
     fazouane-marouane: merger
+    johno: releaser
     kmck: merger
     Murderlon: merger
     Rokt33r: merger
+    sobolevn: contributor
     vhf: merger
+    wooorm: releaser
     zeke: merger
-    sobolevn: emeritus
-    zeusdeux: emeritus
+    zeusdeux: contributor
 - name: rehype
   lead: wooorm
   humans:
-    wooorm: releaser
-    kmck: releaser
     ChristianMurphy: merger
     johno: merger
+    kmck: releaser
     Murderlon: merger
-    vhf: emeritus
+    vhf: contributor
+    wooorm: releaser
 - name: retext
   lead: wooorm
   humans:
-    wooorm: releaser
     Murderlon: merger
-    RichardLitt: emeritus
+    RichardLitt: contributor
+    wooorm: releaser
 - name: redot
   lead: ChristianMurphy
   humans:
@@ -61,41 +61,41 @@
 - name: micromark
   lead: wooorm
   humans:
-    wooorm: releaser
     fazouane-marouane: merger
     johno: merger
     Murderlon: merger
-    vhf: emeritus
-    zcei: emeritus
-    zeusdeux: emeritus
+    vhf: contributor
+    wooorm: releaser
+    zcei: contributor
+    zeusdeux: contributor
 - name: mdx
   lead: johno
   humans:
-    johno: releaser
-    silvenon: releaser
-    timneutkens: releaser
-    wooorm: releaser
+    ahmadawais: contributor
     ChristopherBiscardi: merger
     Jarred-Sumner: merger
+    johno: releaser
+    jxnblk: contributor
+    mrmrs: contributor
+    rauchg: contributor
     sidharthachatterjee: merger
-    ahmadawais: emeritus
-    jxnblk: emeritus
-    mrmrs: emeritus
-    rauchg: emeritus
-    ticky: emeritus
-    zcei: emeritus
+    silvenon: releaser
+    ticky: contributor
+    timneutkens: releaser
+    wooorm: releaser
+    zcei: contributor
 - name: vfile
   lead: wooorm
   humans:
-    wooorm: releaser
     ChristianMurphy: merger
+    komaeda: contributor
     Rokt33r: merger
-    komaeda: emeritus
+    wooorm: releaser
 - name: syntax tree
   lead: wooorm
   humans:
-    wooorm: releaser
-    kmck: releaser
     BarryThePenguin: merger
     ChristianMurphy: merger
+    kmck: releaser
     Murderlon: merger
+    wooorm: releaser

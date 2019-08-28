@@ -174,7 +174,7 @@ The **unified team** is an **[organization][]** team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
-#### Emeriti
+#### Contributors
 
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
@@ -234,7 +234,7 @@ The **remark team** is an **[organization][]** team responsible for
     ([**@zeke**](https://github.com/zeke))
     &lt;zeke@sikelianos.com>
 
-#### Emeriti
+#### Contributors
 
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
@@ -276,7 +276,7 @@ The **rehype team** is an **[organization][]** team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
-#### Emeriti
+#### Contributors
 
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
@@ -306,7 +306,7 @@ The **retext team** is an **[organization][]** team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
-#### Emeriti
+#### Contributors
 
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
@@ -376,7 +376,7 @@ The **mdx team** is an **[organization][]** team responsible for
     ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
     &lt;me@sidharthachatterjee.com>
 
-#### Emeriti
+#### Contributors
 
 *   Adam Morse
     ([**@mrmrs**](https://github.com/mrmrs))
@@ -427,7 +427,7 @@ The **micromark team** is an **[organization][]** team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
 
-#### Emeriti
+#### Contributors
 
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
@@ -499,7 +499,7 @@ The **vfile team** is an **[organization][]** team responsible for
     ([**@Rokt33r**](https://github.com/Rokt33r))
     &lt;fluke8259@gmail.com>
 
-#### Emeriti
+#### Contributors
 
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
@@ -561,7 +561,7 @@ They additionally:
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
 
-#### Emeriti
+#### Contributors
 
 *   Richard Littauer
     ([**@RichardLitt**](https://github.com/RichardLitt))
