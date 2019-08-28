@@ -190,4 +190,4 @@ indefinite, and leaves that up to moderators.
 
 <!-- Definitions -->
 
-[coc]: https://github.com/unifiedjs/.github/blob/master/code-of-conduct.md
+[coc]: code-of-conduct.md

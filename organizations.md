@@ -352,7 +352,7 @@ collective.
 
 [c-pr]: https://github.com/unifiedjs/.github/blob/master/.github/pull-request-template.md
 
-[c-coc]: https://github.com/unifiedjs/.github/blob/master/code-of-conduct.md
+[c-coc]: code-of-conduct.md
 
 [c-contributing]: https://github.com/unifiedjs/.github/blob/master/contributing.md
 
