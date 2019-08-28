@@ -1,4 +1,4 @@
-# Permissions
+# Permissions policy
 
 This document describes the permissions that members of the collective have
 across several services.
