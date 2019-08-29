@@ -1,12 +1,12 @@
 {
-  "name": "governance",
+  "name": "collective",
   "private": true,
   "version": "0.0.0",
-  "description": "Governance for unified",
+  "description": "Collective governance for unified",
   "license": "CC-BY-4.0",
   "keywords": [],
-  "repository": "unifiedjs/governance",
-  "bugs": "https://github.com/unifiedjs/governance",
+  "repository": "unifiedjs/collective",
+  "bugs": "https://github.com/unifiedjs/collective",
   "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"

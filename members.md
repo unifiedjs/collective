@@ -173,7 +173,7 @@ Users are free to contact members beforehand to suggest their own nomination.
 A motion to nominate a contributor cannot be requested to collective teams.
 For collective teams, request a *motion to nominate a maintainer*.
 
-The movant must open an issue on `unifiedjs/governance` to request the motion.
+The movant must open an issue on `unifiedjs/collective` to request the motion.
 The movant should be convinced that the nominee is indeed an active contributor,
 and is therefore tasked to convince the collective core team to accept the
 motion, through proof that participation matches that of a contributor.
@@ -198,7 +198,7 @@ team) on a single team.
 Contributors are free to contact maintainers beforehand to suggest their own
 nomination.
 
-The movant must open an issue on `unifiedjs/governance` to request the motion.
+The movant must open an issue on `unifiedjs/collective` to request the motion.
 The movant should be convinced that the nominee is indeed an active maintainer,
 and is therefore tasked with convincing the collective core team to accept the
 motion, through proof that participation matches that of a maintainer.
@@ -222,7 +222,7 @@ A contributor (the nominee and movant) who previously held the role of a
 maintainer may self-nominate to become a merger (in case of an organization
 team) or maintainer (in case of a collective team) on a single team.
 
-The movant must open an issue on `unifiedjs/governance` to request the motion.
+The movant must open an issue on `unifiedjs/collective` to request the motion.
 The movant is tasked with convincing the collective core team to accept the
 motion.
 The movant should include, if not already known, their npm handle.
@@ -243,7 +243,7 @@ maintainer to the team for six months.
 In case of an organization team, a merger (the nominee and movant) may
 self-nominate to become a releaser on a team.
 
-The movant must open an issue on `unifiedjs/governance` to request the motion.
+The movant must open an issue on `unifiedjs/collective` to request the motion.
 The movant is tasked with convincing the collective core team to accept the
 motion.
 The movant must include, if not already known, their npm handle.
@@ -289,7 +289,7 @@ nominee with the most votes.
 Any maintainer (the movant and nominee) may request a motion to be excused from
 duty.
 
-The movant must open an issue on `unifiedjs/governance` to request the motion.
+The movant must open an issue on `unifiedjs/collective` to request the motion.
 It is discouraged to request to resign if the nominee is the lead, or the last
 maintainer of a team, before finding suitable replacement.
 The motion must include the new role the nominee wishes to have, which must

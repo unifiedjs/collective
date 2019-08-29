@@ -217,7 +217,7 @@ A member (the movant) requests that a project is deleted.
 It is discouraged to request to delete a project, instead a *motion to archive a
 project* is preferred.
 
-The movant must open an issue on `unifiedjs/governance` to formally request the
+The movant must open an issue on `unifiedjs/collective` to formally request the
 motion.
 
 The movant is tasked with convincing the team to accept the motion.
@@ -233,7 +233,7 @@ Nothing happens when the motion is dismissed.
 A member (the movant) requests that a project is transferred from the
 collective.
 
-The movant must open an issue on `unifiedjs/governance` to formally request the
+The movant must open an issue on `unifiedjs/collective` to formally request the
 motion.
 
 The movant is tasked with convincing the team to accept the motion.
@@ -342,7 +342,7 @@ collective.
 
 [gh-tools]: https://github.com/unifiedjs/github-tools
 
-[permissions]: https://github.com/unifiedjs/governance/blob/master/permissions.md
+[permissions]: permissions.md
 
 [labels]: https://github.com/unifiedjs/github-tools/labels
 
