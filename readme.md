@@ -1,38 +1,21 @@
-# Governance Draft
+# Collective governance
 
-The unified collective is made up of organizations and governed by the team
-members steering them.
+The unified collective is a federated system of organizations, consisting in
+turn of projects, governed by the team members steering them.
 
-## Summary
+This project is maintained by the unified collective core team and describes how
+the collective is governed.
 
-*   unified is governed by several teams
-*   teams are scoped to one **organization** or the **collective**
-*   teams respectively govern the **projects** or **organizations** under them
-*   the [core][] and [moderation][] teams are special
-*   individuals making significant contributions may join a team, they are
-    nominated by existing members of that team and approved by the [core][] team
-*   any member may merge, some members may release
+This document describes the teams of the collective.
+Additional policies describe other aspects of governance in detail:
 
-```ascii
-+-------------------------------------------------+
-|                   COLLECTIVE                    |
-|                core & moderation                |
-|                                                 |
-|                                                 |
-|                  ORGANIZATIONS                  |
-| +-------------+ +-------------+ +-------------+ |
-| |  unifiedjs  | |  remarkjs   | |  rehypejs   | |
-| +-------------+ +-------------+ +-------------+ |
-| +-------------+ +-------------+ +-------------+ |
-| |   retextjs  | |   redotjs   | |   mdx-js    | |
-| +-------------+ +-------------+ +-------------+ |
-| +-------------+ +-------------+ +-------------+ |
-| |  micromark  | |    vfile    | | syntax-tree | |
-| +-------------+ +-------------+ +-------------+ |
-+-------------------------------------------------+
-```
+*   [`decisions.md`][decisions-policy] — how decisions are made
+*   [`members.md`][members-policy] — how people participate
+*   [`moderation.md`][moderation-policy] — how the code of conduct is enforced
+*   [`organizations.md`][organizations-policy] — how organizations are managed
+*   [`permissions.md`][permissions-policy] — the permissions members have
 
-## Table of Contents
+## Table of contents
 
 *   [Teams](#teams)
 *   [Organization teams](#organization-teams)
@@ -49,63 +32,69 @@ members steering them.
     *   [Core team](#core-team)
     *   [Moderation team](#moderation-team)
 *   [Glossary](#glossary)
-*   [Code of Conduct](#code-of-conduct)
+*   [Code of conduct](#code-of-conduct)
+*   [Acknowledgements](#acknowledgements)
 *   [License](#license)
 
 ## Teams
 
-**All teams serve as leadership for their scope**.
+```ascii
++-------------------------------------------------+
+|                   COLLECTIVE                    |
+|                core & moderation                |
+|                                                 |
+|                                                 |
+|                  ORGANIZATIONS                  |
+| +-------------+ +-------------+ +-------------+ |
+| |   unified   | |   remark    | |   rehype    | |
+| +-------------+ +-------------+ +-------------+ |
+| +-------------+ +-------------+ +-------------+ |
+| |    retext   | |    redot    | |     mdx     | |
+| +-------------+ +-------------+ +-------------+ |
+| +-------------+ +-------------+ +-------------+ |
+| |  micromark  | |    vfile    | | syntax tree | |
+| +-------------+ +-------------+ +-------------+ |
++-------------------------------------------------+
+```
+
+The collective is governed by teams.
+Teams are scoped to one **organization** or the **collective**, respectively
+governing the **projects** or **organizations** under them.
+The [core][] and [moderation][] teams are special.
+
+Teams serve as leadership for their scope.
 They:
 
-*   **Set the direction in their scope**.
-    That means setting the values that are used when making decisions about
-    tradeoffs, steering the scope toward specific directions, and leading the
-    discussion for initiatives
-*   **Shepherd initiatives for what is governed**.
-    This means making stakeholders (people who are strongly affected by
-    decisions) aware of initiatives, teasing out design tradeoffs and
-    alternatives, and helping build consensus.
-*   **Accept or reject initiatives**.
-*   **Nominate and onboard team members**
-    This means nominating individuals making significant and valuable
-    contributions across the scope to be part of the team, and when accepted,
-    onboarding them.
+*   **Set the direction**:
+    setting the values that are used when making decisions about tradeoffs,
+    steering the scope toward specific directions, and leading the discussion
+    for initiatives
+*   **Shepherd initiatives**:
+    making stakeholders (people who are strongly affected by decisions) aware of
+    initiatives, teasing out design tradeoffs and alternatives, and helping
+    build consensus
+*   **Accept or reject issues, pull requests, and RFCs**:
+    deciding on initiatives, whether small or substantial
+*   **Nominate team members**:
+    nominating individuals making significant and valuable contributions across
+    to be part of the team
 
 Teams should be made up of:
 
-*   A team lead: this role must be fulfilled by a **[core team][core]** member.
-    Each team except for the **[moderation][]** and **[core][]** teams has a
-    lead.
-*   Area experts: people who have a lot of interest and expertise in the area
-    covered by the team, but who may be far less engaged with other areas of
-    the collective.
-*   Stakeholders: people who are strongly affected by decisions in the area of
-    the team, but who may not be experts in the design or implementation of that
-    area.
+*   **Area experts**:
+    people who have a lot of interest and expertise in the area covered by the
+    team, but who may be far less engaged with other areas of the collective
+*   **Stakeholders**:
+    people who are strongly affected by decisions in the area of the team, but
+    who may not be experts in the design or implementation of that area
 
-The team leader is responsible for:
+How teams communicate internally and externally is left to each team to decide,
+but:
 
-*   Setting up the team: this includes deciding on the initial membership of the
-    team (in consultation with the core team) when the team is up and running
-    and working with team members to determine and publish team policies and
-    mechanics, including the way that team members join or leave the team (which
-    should be based on consensus).
-*   Communicating between the team and collective teams.
-*   Alerting collective teams of initiatives that need global, cross-cutting
-    attention.
-*   Ensuring initiatives and PRs are progressing at a reasonable rate,
-    re-assigning as needed.
-*   Making final decisions in cases of initiatives that are unable to reach
-    consensus otherwise (this should be unlikely, and should be discussed with
-    the [core][] team).
-
-The way that teams communicate internally and externally is left to each team
-to decide, but:
-
-*   Technical discussion should take place as much as possible on public forums,
-    ideally on initiative or PR threads, or on forum posts.
-*   Each team will have a dedicated forum channel.
-*   Teams should actively seek out discussion and input from non-members.
+*   Discussion should take place as much as possible in public spaces, ideally
+    on issues, pull requests, or Spectrum posts
+*   Teams should actively seek out discussion and input from non-members
+*   Each team will have a dedicated Spectrum channel
 
 ## Organization teams
 
@@ -116,36 +105,19 @@ They have the same responsibilities as [all teams][all], and additionally:
 
 *   **Escalate initiatives affecting the collective to a collective team**
 *   **Implement accepted collective-level initiatives**
-*   **Define policy on what form changes should take**.
-    This includes which changes can be a direct PR, which need to be escalated,
-    and which can be handled by the team itself.
+*   **Define policy on what form changes should take**:
+    such as which can be a direct pull request or RFC, which need to be
+    escalated, and which can be handled by the team itself
 
-It’s suggested that organization teams differentiate between mergers and
-releasers.
-All team members are mergers: they have the right to merge a pull request,
-although it is highly suggested to wait at least 72 hours, in order to gather
-enough feedback, and at least 2 approvals from other members.
-Some members are releasers: they can release a new version of a project, taking
-into account that some changes are better bundled together.
+Organization teams additionally include:
 
-Mergers materialize in having write access to the GitHub organization, and
-releasers in that they have access to npm.
-
-These guidelines are suggestions because there are differences between the
-projects under the unified umbrella and differences in proposed changes.
-For example, making a breaking change to a high-level project should be handled
-differently that adding prettier to a refactor a low-level project’s style.
-
-Projects under an organization team are sometimes originally developed or
-maintained by an individual outside that team.
-These individuals, in the scope of that project, have the responsibility and
-right like team members of accepting or rejecting initiatives.
-If the organization differentiates between mergers and releasers, these
-individuals should additionally be classified as mergers, but not releasers.
+*   **Team lead**:
+    person responsible for ensuring initiatives are progressing at a reasonable
+    rate
 
 ### unified team
 
-The **unified team** is an **[organization][]** team responsible for
+The **unified team** is an *[organization][]* team responsible for
 [**@unifiedjs**](https://github.com/unifiedjs).
 
 <!--humans start team=unified shift=3-->
@@ -190,7 +162,7 @@ The **unified team** is an **[organization][]** team responsible for
 
 ### remark team
 
-The **remark team** is an **[organization][]** team responsible for
+The **remark team** is an *[organization][]* team responsible for
 [**@remarkjs**](https://github.com/remarkjs).
 
 <!--humans start team=remark shift=3-->
@@ -247,7 +219,7 @@ The **remark team** is an **[organization][]** team responsible for
 
 ### rehype team
 
-The **rehype team** is an **[organization][]** team responsible for
+The **rehype team** is an *[organization][]* team responsible for
 [**@rehypejs**](https://github.com/rehypejs).
 
 <!--humans start team=rehype shift=3-->
@@ -286,7 +258,7 @@ The **rehype team** is an **[organization][]** team responsible for
 
 ### retext team
 
-The **retext team** is an **[organization][]** team responsible for
+The **retext team** is an *[organization][]* team responsible for
 [**@retextjs**](https://github.com/retextjs).
 
 <!--humans start team=retext shift=3-->
@@ -316,7 +288,7 @@ The **retext team** is an **[organization][]** team responsible for
 
 ### redot team
 
-The **redot team** is an **[organization][]** team responsible for
+The **redot team** is an *[organization][]* team responsible for
 [**@redotjs**](https://github.com/redotjs).
 
 <!--humans start team=redot shift=3-->
@@ -341,7 +313,7 @@ None.
 
 ### mdx team
 
-The **mdx team** is an **[organization][]** team responsible for
+The **mdx team** is an *[organization][]* team responsible for
 [**@mdx-js**](https://github.com/mdx-js).
 
 <!--humans start team=mdx shift=3-->
@@ -401,7 +373,7 @@ The **mdx team** is an **[organization][]** team responsible for
 
 ### micromark team
 
-The **micromark team** is an **[organization][]** team responsible for
+The **micromark team** is an *[organization][]* team responsible for
 [**@micromark**](https://github.com/micromark).
 
 <!--humans start team=micromark shift=3-->
@@ -443,7 +415,7 @@ The **micromark team** is an **[organization][]** team responsible for
 
 ### syntax tree team
 
-The **syntax tree team** is an **[organization][]** team responsible for
+The **syntax tree team** is an *[organization][]* team responsible for
 [**@syntax-tree**](https://github.com/syntax-tree).
 
 <!--humans start team="syntax tree" shift=3-->
@@ -476,7 +448,7 @@ The **syntax tree team** is an **[organization][]** team responsible for
 
 ### vfile team
 
-The **vfile team** is an **[organization][]** team responsible for
+The **vfile team** is an *[organization][]* team responsible for
 [**@vfile**](https://github.com/vfile).
 
 <!--humans start team=vfile shift=3-->
@@ -514,35 +486,31 @@ organizations under it.
 
 They have the same responsibilities as [all teams][all], and additionally:
 
-*   **De-escalate initiatives to organization teams**.
-*   **Focus on overarching concerns**.
-    The collective teams are specifically designed to take a **global** view of
-    the collective, to make sure the pieces are fitting together in a coherent
-    way.
+*   **De-escalate initiatives to organization teams**
+*   **Focus on overarching concerns**:
+    they are specifically designed to take a *global* view of the collective, to
+    make sure the pieces are fitting together in a coherent way
 
 ### Core team
 
-The **core team** is a **[collective][]** team responsible for governing all
+The **core team** is a *[collective][]* team responsible for governing all
 other teams.
-Members of this team **should not** be on the **[moderation team][moderation]**.
+This team does not have a lead and, to limit conflicts of interest, **should**
+not include **[moderation team][moderation]** members.
 
-They additionally:
+They:
 
-*   **Set the direction and vision for the collective across organizations**.
-    That means setting the core values that are used when making decisions
-    about tradeoffs, steering the collective toward specific directions, and
-    leading the discussion for **major** initiatives.
-*   **Spin up or shut down teams**.
-    That means creating teams around new (temporary) areas and disolving teams
-    when their area is complete.
-*   **Accept or reject members**.
-    This means accepting or rejecting individuals nominated by existing members.
-*   **Review inactive team members**.
-    The core team periodically reviews the list of team members to identify
-    inactive team members.
-    Past members are typically given Emeritus status.
-    Emeriti may request that the their status is restored.
-*   **Offboard team members**.
+*   **Set the direction and vision for the collective across organizations**:
+    setting the core values that are used when making decisions about tradeoffs,
+    steering the collective toward specific directions, and leading the
+    discussion for **major** initiatives
+*   **Spin up or shut down teams**:
+    creating teams around new (temporary) areas and disolving teams when their
+    area is complete
+*   **Accept or reject motions**:
+    deciding on initiatives involving people and destructive actions on projects
+*   **Follow playbooks**:
+    following certain steps to enact accepted motions
 
 <!--humans start team=core shift=3-->
 
@@ -574,9 +542,9 @@ They additionally:
 
 ### Moderation team
 
-The **moderation team** is a **[collective][]** team responsible for enforcing
-the code of conduct.
-This team does not have a leader and, to limit conflicts of interest, **should**
+The **moderation team** is a *[collective][]* team responsible for enforcing the
+code of conduct.
+This team does not have a lead and, to limit conflicts of interest, **should**
 not include **[core team][core]** members.
 
 <!--humans start team=moderation shift=3-->
@@ -597,7 +565,7 @@ not include **[core team][core]** members.
 ###### Collective
 
 The collective is unified as a whole with the [organization][dfn-organization]s
-under it the [project][dfn-project]s under them.
+under it and the [project][dfn-project]s under them.
 
 ###### Organization
 
@@ -606,51 +574,66 @@ typically hosted in a GitHub organization.
 
 ###### Project
 
-A project is typically one GitHub repository, although some repositories are
-not projects in the sense that they include code.
+A project is a single repository on GitHub governed by a team.
 
 ###### Initiative
 
-An initiative is a non-trivial change that significantly affects users.
-Teams must define what they deem **trivial** or **significant**.
+An initiative is a (proposed) change.
 
-## Code of Conduct
+## Code of conduct
 
-We follow the Contributor Covenant [Code of Conduct][coc].
-Please read it at your leisure, as you agree to abide by it by interacting with
-[**@unifiedjs**](https://github.com/unifiedjs) on GitHub.
+We follow the Contributor Covenant [code of conduct][coc].
+Please read it, as you agree to abide by it by interacting with the collective
+spaces (includes any online or offline place such as email, GitHub, npm,
+Spectrum, or Twitter).
 
-This Code of Conduct should be copied to all documentation repositories for each
-project, and applies to every repository in the wider
-[**@unifiedjs**](https://github.com/unifiedjs) ecosystem.
+## Acknowledgements
+
+This project is inspired by the [Rust governance proposal][rust], the [Node
+governance docs][node], the [Node admin project][node-admin], the [Electron
+governance docs][electron], and [Django’s dissolving of core][django].
 
 ## License
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][license].
-It’s based on the [Rust governance proposal][rust] and the [Node governance
-docs][node].
 
 <!-- definitions -->
 
-[core]: #core-team
-
-[moderation]: #moderation-team
+[all]: #teams
 
 [collective]: #collective-teams
 
 [organization]: #organization-teams
 
-[all]: #teams
+[core]: #core-team
+
+[moderation]: #moderation-team
 
 [dfn-organization]: #organization
 
 [dfn-project]: #project
 
+[decisions-policy]: decisions.md
+
+[members-policy]: members.md
+
+[moderation-policy]: moderation.md
+
+[organizations-policy]: organizations.md
+
+[permissions-policy]: permissions.md
+
+[coc]: code-of-conduct.md
+
 [rust]: https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md
 
 [node]: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
 
-[coc]: code-of-conduct.md
+[node-admin]: https://github.com/nodejs/admin
+
+[electron]: https://github.com/electron/governance
+
+[django]: https://github.com/django/deps/blob/master/draft/0010-dissolve-core.rst
 
 [license]: https://creativecommons.org/licenses/by/4.0/
