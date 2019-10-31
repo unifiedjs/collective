@@ -18,8 +18,8 @@
     "prettier": "^1.0.0",
     "remark-cli": "^7.0.0",
     "remark-preset-wooorm": "^6.0.0",
-    "unist-builder": "^1.0.0",
-    "xo": "^0.24.0"
+    "unist-builder": "^2.0.0",
+    "xo": "^0.25.0"
   },
   "scripts": {
     "format": "remark . -qfo && prettier --write \"**/*.js\" && xo --fix",
