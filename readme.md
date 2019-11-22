@@ -344,6 +344,9 @@ The **mdx team** is an *[organization][]* team responsible for
 *   Jarred Sumner
     ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
     &lt;jarred@jarredsumner.com>
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    &lt;admin@1stg.me>
 *   Sidhartha Chatterjee
     ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
     &lt;me@sidharthachatterjee.com>
