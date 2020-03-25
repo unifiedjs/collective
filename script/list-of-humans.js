@@ -19,15 +19,15 @@ function listOfHumans() {
     zone(tree, 'humans', onzone)
 
     function onzone(start, nodes, end) {
-      var params = marker(start).parameters
-      var shift = params.shift || 0
-      var name = params.team
+      var parameters = marker(start).parameters
+      var shift = parameters.shift || 0
+      var name = parameters.team
 
       if (!name) {
         file.fail('Missing team attribute in humans marker', start)
       }
 
-      var team = teams.find(s => s.name === name)
+      var team = teams.find((s) => s.name === name)
 
       if (!team) {
         file.fail('Missing definition for team `' + name + '`', start)
@@ -77,11 +77,11 @@ function list(team, users) {
     'list',
     {ordered: false},
     users
-      .map(github => humans.find(p => p.github === github))
+      .map((github) => humans.find((p) => p.github === github))
       .sort((a, b) => {
         return a.name.localeCompare(b.name)
       })
-      .map(function(human) {
+      .map(function (human) {
         var content = [
           u('text', human.name + '\n('),
           u('link', {url: 'https://github.com/' + human.github}, [
