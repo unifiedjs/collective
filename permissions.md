@@ -131,7 +131,7 @@ Maintainers of collective teams are required to be listed on OpenCollective.
 
 The [`unifiedjs`](https://twitter.com/unifiedjs) account on [Twitter][] is
 governed by the collective.
-It is owned by [**@wooorm**][wooorm].
+It is owned by [**@wooorm**][wooorm] and [**@johno**][johno].
 
 ## Domains
 
