@@ -173,7 +173,7 @@ It should include the following health files:
 *   `.github/pull-request-template.md`:
     Template that guides new PRs ([example][c-pr])
 *   `code-of-conduct.md`:
-    Copy of our [Code of Conduct][c-coc]
+    Copy of our [code of conduct][c-coc]
 *   `contributing.md`:
     Docs that explain how to contribute ([example][c-contributing])
 *   `funding.yml`:

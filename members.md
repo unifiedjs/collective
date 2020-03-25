@@ -133,7 +133,7 @@ consistent and significant amount of time already.
 
 Typical participation of a moderation team maintainer includes:
 
-*   Enforcing the Code of Conduct
+*   Enforcing the code of conduct
 *   Expelling members and blocking users
 
 Typical participation of a core team maintainer includes:
@@ -347,7 +347,7 @@ one or more teams.
 
 *   Nominee ensures 2FA is enabled on GitHub
 *   Nominee confirms that they have read, understand, and agree to uphold the
-    Code of Conduct
+    code of conduct
 *   Enactor adds the nominee, if not already listed, to
     [`data/humans.yml`][humans]
 *   Enactor adds the nominee to the respective teams as a `contributor` in

@@ -1,7 +1,7 @@
 # Moderation policy
 
 This document describes how moderation occurs across the collective.
-It describes how people can handle Code of Conduct violations.
+It describes how people can handle code of conduct violations.
 Furthermore it describes the actions any maintainer, and specifically moderators
 (maintainers of the collective moderation team), can make.
 
@@ -22,7 +22,7 @@ unified collective core team.
 ## Violations
 
 A **violation**, in the scope of collective governance, is any post that
-violates the [Code of Conduct][coc].
+violates the [code of conduct][coc].
 The collective moderation team decides what inappropriate behavior constitutes a
 violation.
 
@@ -41,7 +41,7 @@ locking old issues.
 
 Persons should carefully consider the possible intent of the author of a
 violation.
-It may be that they made an error, are not familiar with the Code of Conduct,
+It may be that they made an error, are not familiar with the code of conduct,
 are unaware that something is inappropriate, or that cultural differences exist.
 In such cases, the author can be given an opportunity to correct the error they
 made.

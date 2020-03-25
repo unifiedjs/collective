@@ -508,7 +508,7 @@ They:
     steering the collective toward specific directions, and leading the
     discussion for **major** initiatives
 *   **Spin up or shut down teams**:
-    creating teams around new (temporary) areas and disolving teams when their
+    creating teams around new (temporary) areas and dissolving teams when their
     area is complete
 *   **Accept or reject motions**:
     deciding on initiatives involving people and destructive actions on projects
