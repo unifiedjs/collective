@@ -331,7 +331,7 @@ The **mdx team** is an *[organization][]* team responsible for
     &lt;matija.marohnic@gmail.com>
 *   Tim Neutkens
     ([**@timneutkens**](https://github.com/timneutkens))
-    &lt;tim@zeit.co>
+    &lt;tim@vercel.com>
 *   Titus Wormer
     ([**@wooorm**](https://github.com/wooorm))
     &lt;tituswormer@gmail.com>
