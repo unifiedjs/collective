@@ -181,7 +181,7 @@ This work is licensed under a
 
 [gh-tools]: https://github.com/unifiedjs/github-tools
 
-[npm-tools]: https://github.com/unifiedjs/github-tools
+[npm-tools]: https://github.com/unifiedjs/npm-tools
 
 [mailgun]: https://www.mailgun.com
 
