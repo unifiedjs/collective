@@ -347,6 +347,8 @@ The **mdx team** is an *[organization][]* team responsible for
 *   Joun Qin
     ([**@JounQin**](https://github.com/JounQin))
     &lt;admin@1stg.me>
+*   Laurie Barth
+    ([**@laurieontech**](https://github.com/laurieontech))
 *   Sidhartha Chatterjee
     ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
     &lt;me@sidharthachatterjee.com>
