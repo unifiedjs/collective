@@ -87,10 +87,12 @@ function list(team, users) {
           u('link', {url: 'https://github.com/' + human.github}, [
             u('strong', [u('text', '@' + human.github)])
           ]),
-          u('text', ')\n<'),
-          u('text', human.email),
-          u('text', '>')
+          u('text', ')')
         ]
+
+        if (human.email) {
+          content.push(u('text', '\n<'), u('text', human.email), u('text', '>'))
+        }
 
         if (human.github === team.lead) {
           content.push(
