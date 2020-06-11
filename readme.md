@@ -214,6 +214,9 @@ The **remark team** is an *[organization][]* team responsible for
 *   Nikita Sobolev
     ([**@sobolevn**](https://github.com/sobolevn))
     &lt;mail@sobolevn.me>
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    &lt;remcohaszing@gmail.com>
 
 <!--humans end-->
 
@@ -250,6 +253,9 @@ The **rehype team** is an *[organization][]* team responsible for
 
 #### Contributors
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    &lt;remcohaszing@gmail.com>
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     &lt;victor@draft.li>
@@ -448,6 +454,12 @@ The **syntax tree team** is an *[organization][]* team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     &lt;merlijn@soverin.net>
+
+#### Contributors
+
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    &lt;remcohaszing@gmail.com>
 
 <!--humans end-->
 

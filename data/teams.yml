@@ -32,6 +32,7 @@
     johno: releaser
     kmck: merger
     Murderlon: merger
+    remcohaszing: contributor
     Rokt33r: merger
     sobolevn: contributor
     vhf: merger
@@ -45,6 +46,7 @@
     johno: merger
     kmck: releaser
     Murderlon: merger
+    remcohaszing: contributor
     vhf: contributor
     wooorm: releaser
 - name: retext
@@ -100,4 +102,5 @@
     ChristianMurphy: merger
     kmck: releaser
     Murderlon: merger
+    remcohaszing: contributor
     wooorm: releaser
