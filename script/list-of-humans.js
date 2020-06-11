@@ -34,12 +34,12 @@ function listOfHumans() {
       }
 
       var content = [u('heading', {depth: 1 + shift}, [u('text', 'Members')])]
+      var byRole = {}
 
-      var byRole = Object.keys(team.humans).reduce((all, h) => {
+      Object.keys(team.humans).forEach((h) => {
         var role = team.humans[h]
-        all[role] = (all[role] || []).concat(h)
-        return all
-      }, {})
+        byRole[role] = (byRole[role] || []).concat(h)
+      })
 
       if (team.collective) {
         content.push(
