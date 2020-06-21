@@ -348,16 +348,16 @@ collective.
 
 [wooorm]: https://github.com/wooorm
 
-[c-issue]: https://github.com/unifiedjs/.github/tree/master/.github/ISSUE_TEMPLATE
+[c-issue]: https://github.com/unifiedjs/.github/tree/main/.github/ISSUE_TEMPLATE
 
-[c-pr]: https://github.com/unifiedjs/.github/blob/master/.github/pull-request-template.md
+[c-pr]: https://github.com/unifiedjs/.github/blob/main/.github/pull-request-template.md
 
 [c-coc]: code-of-conduct.md
 
-[c-contributing]: https://github.com/unifiedjs/.github/blob/master/contributing.md
+[c-contributing]: https://github.com/unifiedjs/.github/blob/main/contributing.md
 
-[c-funding]: https://github.com/unifiedjs/.github/blob/master/funding.yml
+[c-funding]: https://github.com/unifiedjs/.github/blob/main/funding.yml
 
-[c-security]: https://github.com/unifiedjs/.github/blob/master/security.md
+[c-security]: https://github.com/unifiedjs/.github/blob/main/security.md
 
-[c-support]: https://github.com/unifiedjs/.github/blob/master/support.md
+[c-support]: https://github.com/unifiedjs/.github/blob/main/support.md

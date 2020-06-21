@@ -643,14 +643,14 @@ This work is licensed under a
 
 [coc]: code-of-conduct.md
 
-[rust]: https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md
+[rust]: https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md
 
-[node]: https://github.com/nodejs/node/blob/master/GOVERNANCE.md
+[node]: https://github.com/nodejs/node/blob/HEAD/GOVERNANCE.md
 
 [node-admin]: https://github.com/nodejs/admin
 
 [electron]: https://github.com/electron/governance
 
-[django]: https://github.com/django/deps/blob/master/draft/0010-dissolve-core.rst
+[django]: https://github.com/django/deps/blob/HEAD/accepted/0010-new-governance.rst
 
 [license]: https://creativecommons.org/licenses/by/4.0/
