@@ -176,8 +176,8 @@ spaces governed by the collective.
 
 *   Enactor ensures the violation is reported
 *   Enactor coordinates with a maintainer of the collective core team to jointly
-    block the offender in the spaces governed by the collective, such as GitHub,
-    Spectrum, and Twitter
+    block the offender in the spaces governed by the collective, such as GitHub
+    and Twitter
 *   Enactor posts within the original thread, mentioning the offender,
     explaining what behavior was unacceptable, that this was the offender’s
     third/fourth violation or an extreme violation, and confirming that they are

@@ -92,9 +92,8 @@ How teams communicate internally and externally is left to each team to decide,
 but:
 
 *   Discussion should take place as much as possible in public spaces, ideally
-    on issues, pull requests, or Spectrum posts
+    on issues, pull requests, or GitHub discussions
 *   Teams should actively seek out discussion and input from non-members
-*   Each team will have a dedicated Spectrum channel
 
 ## Organization teams
 
@@ -601,8 +600,8 @@ An initiative is a (proposed) change.
 
 We follow the Contributor Covenant [code of conduct][coc].
 Please read it, as you agree to abide by it by interacting with the collective
-spaces (includes any online or offline place such as email, GitHub, npm,
-Spectrum, or Twitter).
+spaces (includes any online or offline place such as email, GitHub, npm, or
+Twitter).
 
 ## Acknowledgements
 

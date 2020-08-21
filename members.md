@@ -51,8 +51,8 @@ Participation includes dealing in the projects governed by the collective (such
 as using, distributing, or selling), and activity such as code, comments,
 commits, edits, emails, issues, posts, pull requests, or tweets.
 
-Spaces includes any online or offline place such as email, GitHub, npm,
-Spectrum, or Twitter.
+Spaces includes any online or offline place such as email, GitHub, npm, or
+Twitter.
 
 Persons are further divided into two groups: users and members.
 A **member** is a person that is part of a team, a **user** is not.

@@ -74,8 +74,8 @@ In cases where community members transgress against the values in the code of
 conduct, members of the moderation team will use a three-strike warning system,
 where the aggressor will be warned twice before they are permanently excluded
 from our community spaces.
-This code applies to GitHub, Spectrum, Twitter, and any other space that this
-community uses for communication.
+This code applies to GitHub, Twitter, and any other space that this community
+uses for communication.
 For interactions between community members outside of this space, the code also
 applies if the interactions are reported and deemed to be interfering with
 community members safely working on the collective together.

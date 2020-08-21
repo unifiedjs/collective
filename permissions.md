@@ -20,7 +20,6 @@ This document is developed by the unified collective core team.
 *   [npm](#npm)
     *   [npm organization](#npm-organization)
     *   [npm teams](#npm-teams)
-*   [Spectrum](#spectrum)
 *   [OpenCollective](#opencollective)
 *   [Twitter](#twitter)
 *   [Domains](#domains)
@@ -101,21 +100,6 @@ The npm organization consists of npm teams:
     — includes mergers; [**read-only**][npm-repo-perms] permissions
 *   `releasers`
     — includes releasers; [**read-write**][npm-repo-perms] permissions
-
-## Spectrum
-
-The `unified` and `mdx` communities on [Spectrum][] are governed by the
-collective.
-They are respectively owned by [**@wooorm**][wooorm] and [**@johno**][johno].
-The reason for this is that Spectrum allows one owner.
-
-Members are not required to participate on Spectrum.
-
-Members of the MDX team that participate on Spectrum, are marked as team members
-in the `mdx` community.
-
-Members of other teams that participate on Spectrum, are marked as team members
-in the `unified` community.
 
 ## OpenCollective
 
@@ -200,8 +184,6 @@ This work is licensed under a
 [github]: https://github.com
 
 [npm]: https://www.npmjs.com
-
-[spectrum]: https://spectrum.chat/about
 
 [opencollective]: https://opencollective.com
 
