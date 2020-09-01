@@ -1,3 +1,6 @@
+# Teams have access to complete orgs.
+# For folks w/ access to specific repos, see:
+# <https://github.com/unifiedjs/github-tools/blob/main/config/github-humans.yml>
 - name: core
   collective: true
   humans:
