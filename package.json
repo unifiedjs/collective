@@ -16,10 +16,10 @@
     "mdast-comment-marker": "^1.0.0",
     "mdast-zone": "^4.0.0",
     "prettier": "^2.0.0",
-    "remark-cli": "^8.0.0",
-    "remark-preset-wooorm": "^7.0.0",
+    "remark-cli": "^9.0.0",
+    "remark-preset-wooorm": "^8.0.0",
     "unist-builder": "^2.0.0",
-    "xo": "^0.33.0"
+    "xo": "^0.34.0"
   },
   "scripts": {
     "format": "remark . -qfo && prettier --write \"**/*.js\" && xo --fix",
