@@ -1,45 +1,47 @@
-'use strict'
+import fs from 'node:fs'
+import path from 'node:path'
+import yaml from 'js-yaml'
+import {zone} from 'mdast-zone'
+import {commentMarker} from 'mdast-comment-marker'
+import {u} from 'unist-builder'
 
-var fs = require('fs')
-var path = require('path')
-var yaml = require('js-yaml')
-var zone = require('mdast-zone')
-var marker = require('mdast-comment-marker')
-var u = require('unist-builder')
+const humans = yaml.load(fs.readFileSync(path.join('data', 'humans.yml')))
+const teams = yaml.load(fs.readFileSync(path.join('data', 'teams.yml')))
 
-var humans = yaml.safeLoad(fs.readFileSync(path.join('data', 'humans.yml')))
-var teams = yaml.safeLoad(fs.readFileSync(path.join('data', 'teams.yml')))
+const own = {}.hasOwnProperty
 
-module.exports = listOfHumans
-
-function listOfHumans() {
+export default function listOfHumans() {
   return transform
 
   function transform(tree, file) {
     zone(tree, 'humans', onzone)
 
     function onzone(start, nodes, end) {
-      var parameters = marker(start).parameters
-      var shift = parameters.shift || 0
-      var name = parameters.team
+      const parameters = commentMarker(start).parameters
+      const shift = parameters.shift || 0
+      const name = parameters.team
 
       if (!name) {
         file.fail('Missing team attribute in humans marker', start)
       }
 
-      var team = teams.find((s) => s.name === name)
+      const team = teams.find((s) => s.name === name)
 
       if (!team) {
         file.fail('Missing definition for team `' + name + '`', start)
       }
 
-      var content = [u('heading', {depth: 1 + shift}, [u('text', 'Members')])]
-      var byRole = {}
+      const content = [u('heading', {depth: 1 + shift}, [u('text', 'Members')])]
+      const byRole = {}
+      let human
 
-      Object.keys(team.humans).forEach((h) => {
-        var role = team.humans[h]
-        byRole[role] = (byRole[role] || []).concat(h)
-      })
+      for (human in team.humans) {
+        if (own.call(team.humans, human)) {
+          byRole[team.humans[human]] = (
+            byRole[team.humans[human]] || []
+          ).concat(human)
+        }
+      }
 
       if (team.collective) {
         content.push(
@@ -81,8 +83,8 @@ function list(team, users) {
       .sort((a, b) => {
         return a.name.localeCompare(b.name)
       })
-      .map(function (human) {
-        var content = [
+      .map((human) => {
+        const content = [
           u('text', human.name + '\n('),
           u('link', {url: 'https://github.com/' + human.github}, [
             u('strong', [u('text', '@' + human.github)])

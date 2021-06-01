@@ -11,18 +11,19 @@
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
+  "type": "module",
   "devDependencies": {
-    "js-yaml": "^3.0.0",
-    "mdast-comment-marker": "^1.0.0",
-    "mdast-zone": "^4.0.0",
+    "js-yaml": "^4.0.0",
+    "mdast-comment-marker": "^2.0.0",
+    "mdast-zone": "^5.0.0",
     "prettier": "^2.0.0",
     "remark-cli": "^9.0.0",
     "remark-preset-wooorm": "^8.0.0",
-    "unist-builder": "^2.0.0",
-    "xo": "^0.34.0"
+    "unist-builder": "^3.0.0",
+    "xo": "^0.40.0"
   },
   "scripts": {
-    "format": "remark . -qfo && prettier --write \"**/*.js\" && xo --fix",
+    "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
     "test": "npm run format"
   },
   "prettier": {
@@ -34,8 +35,7 @@
     "trailingComma": "none"
   },
   "xo": {
-    "prettier": true,
-    "esnext": false
+    "prettier": true
   },
   "remarkConfig": {
     "plugins": [
