@@ -1,8 +1,8 @@
 # Invoice: unified collective
 
 *   **Date**: 2000-00-00
-*   **Person**: FULL_NAME ([@GITHUB_HANDLE](https://github.com/GITHUB_HANDLE))
-*   **Rate**: $HOURLY_RATE/hr
+*   **Person**: FULL\_NAME ([@GITHUB\_HANDLE](https://github.com/GITHUB_HANDLE))
+*   **Rate**: $HOURLY\_RATE/hr
 
 ## Items
 

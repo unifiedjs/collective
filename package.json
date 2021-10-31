@@ -17,10 +17,10 @@
     "mdast-comment-marker": "^2.0.0",
     "mdast-zone": "^5.0.0",
     "prettier": "^2.0.0",
-    "remark-cli": "^9.0.0",
-    "remark-preset-wooorm": "^8.0.0",
+    "remark-cli": "^10.0.0",
+    "remark-preset-wooorm": "^9.0.0",
     "unist-builder": "^3.0.0",
-    "xo": "^0.40.0"
+    "xo": "^0.46.0"
   },
   "scripts": {
     "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
@@ -40,7 +40,7 @@
   "remarkConfig": {
     "plugins": [
       "preset-wooorm",
-      "./script/list-of-humans"
+      "./script/list-of-humans.js"
     ]
   }
 }
