@@ -154,6 +154,10 @@ The **unified team** is an *[organization][]* team responsible for
     ([**@zeusdeux**](https://github.com/zeusdeux))
     \<zeusdeux\@gmail.com>
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     \<stephanschndr\@gmail.com>
@@ -532,6 +536,10 @@ The **vfile team** is an *[organization][]* team responsible for
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
     \<mokou\@posteo.de>
+
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
 
 <!--humans end-->
 
