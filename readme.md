@@ -374,10 +374,6 @@ The **mdx team** is an *[organization][]* team responsible for
     ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
     \<chris\@christopherbiscardi.com>
 
-*   Jarred Sumner
-    ([**@Jarred-Sumner**](https://github.com/Jarred-Sumner))
-    \<jarred\@jarredsumner.com>
-
 *   Joun Qin
     ([**@JounQin**](https://github.com/JounQin))
     \<admin\@1stg.me>
