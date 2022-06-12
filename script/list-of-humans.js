@@ -1,12 +1,15 @@
-import fs from 'node:fs'
-import path from 'node:path'
-import yaml from 'js-yaml'
+import fs from 'node:fs/promises'
+import yaml from 'yaml'
 import {zone} from 'mdast-zone'
 import {commentMarker} from 'mdast-comment-marker'
 import {u} from 'unist-builder'
 
-const humans = yaml.load(fs.readFileSync(path.join('data', 'humans.yml')))
-const teams = yaml.load(fs.readFileSync(path.join('data', 'teams.yml')))
+const humans = yaml.parse(
+  String(await fs.readFile(new URL('../data/humans.yml', import.meta.url)))
+)
+const teams = yaml.parse(
+  String(await fs.readFile(new URL('../data/teams.yml', import.meta.url)))
+)
 
 const own = {}.hasOwnProperty
 
