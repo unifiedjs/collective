@@ -140,6 +140,10 @@ The **unified team** is an *[organization][]* team responsible for
     ([**@johno**](https://github.com/johno))
     \<johnotander\@gmail.com>
 
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    \<admin\@1stg.me>
+
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
     \<fluke8259\@gmail.com>
@@ -197,6 +201,10 @@ The **remark team** is an *[organization][]* team responsible for
 *   Jonathan Haines
     ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
     \<jonno.haines\@gmail.com>
+
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    \<admin\@1stg.me>
 
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
@@ -267,6 +275,10 @@ The **rehype team** is an *[organization][]* team responsible for
 *   John Otander
     ([**@johno**](https://github.com/johno))
     \<johnotander\@gmail.com>
+
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    \<admin\@1stg.me>
 
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
@@ -435,6 +447,10 @@ The **micromark team** is an *[organization][]* team responsible for
     ([**@johno**](https://github.com/johno))
     \<johnotander\@gmail.com>
 
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    \<admin\@1stg.me>
+
 *   Marouane Fazouane
     ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
     \<fazouanem3\@gmail.com>
@@ -489,6 +505,10 @@ The **syntax tree team** is an *[organization][]* team responsible for
     ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
     \<jonno.haines\@gmail.com>
 
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    \<admin\@1stg.me>
+
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
@@ -522,6 +542,10 @@ The **vfile team** is an *[organization][]* team responsible for
 *   Christian Murphy
     ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
     \<christian.murphy.42\@gmail.com>
+
+*   Joun Qin
+    ([**@JounQin**](https://github.com/JounQin))
+    \<admin\@1stg.me>
 
 *   Junyoung Choi
     ([**@Rokt33r**](https://github.com/Rokt33r))
