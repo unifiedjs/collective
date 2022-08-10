@@ -23,7 +23,7 @@
     JounQin: merger
     Murderlon: merger
     Rokt33r: merger
-    remcohaszing: contributor
+    remcohaszing: merger
     vhf: contributor
     wooorm: releaser
     zcei: contributor
@@ -38,7 +38,7 @@
     JounQin: merger
     kmck: merger
     Murderlon: merger
-    remcohaszing: contributor
+    remcohaszing: merger
     Rokt33r: merger
     sobolevn: contributor
     vhf: merger
@@ -53,7 +53,7 @@
     JounQin: merger
     kmck: releaser
     Murderlon: merger
-    remcohaszing: contributor
+    remcohaszing: merger
     vhf: contributor
     wooorm: releaser
 - name: retext
@@ -74,6 +74,7 @@
     johno: merger
     JounQin: merger
     Murderlon: merger
+    remcohaszing: merger
     vhf: contributor
     wooorm: releaser
     zcei: contributor
@@ -89,6 +90,7 @@
     laurieontech: merger
     mrmrs: contributor
     rauchg: contributor
+    remcohaszing: merger
     sidharthachatterjee: merger
     silvenon: releaser
     ticky: contributor
@@ -102,7 +104,7 @@
     JounQin: merger
     komaeda: contributor
     Rokt33r: merger
-    remcohaszing: contributor
+    remcohaszing: merger
     wooorm: releaser
 - name: syntax tree
   lead: wooorm
@@ -112,5 +114,5 @@
     JounQin: merger
     kmck: releaser
     Murderlon: merger
-    remcohaszing: contributor
+    remcohaszing: merger
     wooorm: releaser
