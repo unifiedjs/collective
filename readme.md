@@ -152,15 +152,15 @@ The **unified team** is an *[organization][]* team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 #### Contributors
 
 *   Mudit Ameta
     ([**@zeusdeux**](https://github.com/zeusdeux))
     \<zeusdeux\@gmail.com>
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
@@ -222,6 +222,10 @@ The **remark team** is an *[organization][]* team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
     \<victor\@draft.li>
@@ -239,10 +243,6 @@ The **remark team** is an *[organization][]* team responsible for
 *   Nikita Sobolev
     ([**@sobolevn**](https://github.com/sobolevn))
     \<mail\@sobolevn.me>
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 <!--humans end-->
 
@@ -284,11 +284,11 @@ The **rehype team** is an *[organization][]* team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
 
-#### Contributors
-
 *   Remco Haszing
     ([**@remcohaszing**](https://github.com/remcohaszing))
     \<remcohaszing\@gmail.com>
+
+#### Contributors
 
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
@@ -317,6 +317,10 @@ The **retext team** is an *[organization][]* team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
+
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
 
 #### Contributors
 
@@ -392,6 +396,10 @@ The **mdx team** is an *[organization][]* team responsible for
 
 *   Laurie Barth
     ([**@laurieontech**](https://github.com/laurieontech))
+
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
 
 *   Sidhartha Chatterjee
     ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
@@ -513,11 +521,13 @@ The **syntax tree team** is an *[organization][]* team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
 
-#### Contributors
-
 *   Remco Haszing
     ([**@remcohaszing**](https://github.com/remcohaszing))
     \<remcohaszing\@gmail.com>
+
+#### Contributors
+
+None
 
 <!--humans end-->
 
@@ -551,15 +561,15 @@ The **vfile team** is an *[organization][]* team responsible for
     ([**@Rokt33r**](https://github.com/Rokt33r))
     \<fluke8259\@gmail.com>
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 #### Contributors
 
 *   Olivia Hugger
     ([**@komaeda**](https://github.com/komaeda))
     \<mokou\@posteo.de>
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 <!--humans end-->
 
