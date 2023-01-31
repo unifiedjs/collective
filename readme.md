@@ -318,10 +318,6 @@ The **retext team** is an *[organization][]* team responsible for
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
-
 #### Contributors
 
 *   Richard Littauer
@@ -371,10 +367,6 @@ The **mdx team** is an *[organization][]* team responsible for
     ([**@johno**](https://github.com/johno))
     \<johnotander\@gmail.com>
     (**lead**)
-
-*   Matija Marohnić
-    ([**@silvenon**](https://github.com/silvenon))
-    \<matija.marohnic\@gmail.com>
 
 *   Tim Neutkens
     ([**@timneutkens**](https://github.com/timneutkens))
@@ -427,6 +419,10 @@ The **mdx team** is an *[organization][]* team responsible for
     ([**@ticky**](https://github.com/ticky))
     \<hello\@jessicastokes.net>
 
+*   Matija Marohnić
+    ([**@silvenon**](https://github.com/silvenon))
+    \<matija.marohnic\@gmail.com>
+
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     \<stephanschndr\@gmail.com>
@@ -466,6 +462,10 @@ The **micromark team** is an *[organization][]* team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
+
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
 
 #### Contributors
 
@@ -524,10 +524,6 @@ The **syntax tree team** is an *[organization][]* team responsible for
 *   Remco Haszing
     ([**@remcohaszing**](https://github.com/remcohaszing))
     \<remcohaszing\@gmail.com>
-
-#### Contributors
-
-None
 
 <!--humans end-->
 
