@@ -419,10 +419,6 @@ The **mdx team** is an *[organization][]* team responsible for
     ([**@ticky**](https://github.com/ticky))
     \<hello\@jessicastokes.net>
 
-*   Matija Marohnić
-    ([**@silvenon**](https://github.com/silvenon))
-    \<matija.marohnic\@gmail.com>
-
 *   Stephan Schneider
     ([**@zcei**](https://github.com/zcei))
     \<stephanschndr\@gmail.com>
