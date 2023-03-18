@@ -368,6 +368,10 @@ The **mdx team** is an *[organization][]* team responsible for
     \<johnotander\@gmail.com>
     (**lead**)
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 *   Tim Neutkens
     ([**@timneutkens**](https://github.com/timneutkens))
     \<tim\@vercel.com>
@@ -388,10 +392,6 @@ The **mdx team** is an *[organization][]* team responsible for
 
 *   Laurie Barth
     ([**@laurieontech**](https://github.com/laurieontech))
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 *   Sidhartha Chatterjee
     ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
