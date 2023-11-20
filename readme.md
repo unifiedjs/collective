@@ -130,6 +130,10 @@ The **unified team** is an *[organization][]* team responsible for
     \<tituswormer\@gmail.com>
     (**lead**)
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 ##### Mergers
 
 *   Christian Murphy
@@ -151,10 +155,6 @@ The **unified team** is an *[organization][]* team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 #### Contributors
 
@@ -192,6 +192,10 @@ The **remark team** is an *[organization][]* team responsible for
     \<tituswormer\@gmail.com>
     (**lead**)
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 ##### Mergers
 
 *   Christian Murphy
@@ -221,10 +225,6 @@ The **remark team** is an *[organization][]* team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 *   Victor Felder
     ([**@vhf**](https://github.com/vhf))
@@ -266,6 +266,10 @@ The **rehype team** is an *[organization][]* team responsible for
     \<tituswormer\@gmail.com>
     (**lead**)
 
+*   Remco Haszing
+    ([**@remcohaszing**](https://github.com/remcohaszing))
+    \<remcohaszing\@gmail.com>
+
 ##### Mergers
 
 *   Christian Murphy
@@ -283,10 +287,6 @@ The **rehype team** is an *[organization][]* team responsible for
 *   Merlijn Vos
     ([**@Murderlon**](https://github.com/Murderlon))
     \<merlijn\@soverin.net>
-
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
 
 #### Contributors
 
