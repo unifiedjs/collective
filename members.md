@@ -10,22 +10,22 @@ This document is developed by the unified collective core team.
 
 ## Table of contents
 
-*   [Persons](#persons)
-    *   [Participation](#participation)
-*   [Motions](#motions)
-    *   [Motion to nominate a contributor](#motion-to-nominate-a-contributor)
-    *   [Motion to nominate a maintainer](#motion-to-nominate-a-maintainer)
-    *   [Request to become a maintainer](#request-to-become-a-maintainer)
-    *   [Request to become a releaser](#request-to-become-a-releaser)
-    *   [Request to elect a lead](#request-to-elect-a-lead)
-    *   [Request to resign](#request-to-resign)
-    *   [Motion to prune](#motion-to-prune)
-*   [Playbooks](#playbooks)
-    *   [Inviting](#inviting)
-    *   [Onboarding](#onboarding)
-    *   [Awarding](#awarding)
-    *   [Succession](#succession)
-    *   [Offboarding](#offboarding)
+* [Persons](#persons)
+  * [Participation](#participation)
+* [Motions](#motions)
+  * [Motion to nominate a contributor](#motion-to-nominate-a-contributor)
+  * [Motion to nominate a maintainer](#motion-to-nominate-a-maintainer)
+  * [Request to become a maintainer](#request-to-become-a-maintainer)
+  * [Request to become a releaser](#request-to-become-a-releaser)
+  * [Request to elect a lead](#request-to-elect-a-lead)
+  * [Request to resign](#request-to-resign)
+  * [Motion to prune](#motion-to-prune)
+* [Playbooks](#playbooks)
+  * [Inviting](#inviting)
+  * [Onboarding](#onboarding)
+  * [Awarding](#awarding)
+  * [Succession](#succession)
+  * [Offboarding](#offboarding)
 
 ## Persons
 
@@ -104,28 +104,28 @@ This role must be fulfilled by a collective core team maintainer.
 Some (but not all) examples of participation can be gathered through GitHub
 search, for example, like so:
 
-*   [Find commits by a user in an org][search-commits]
-*   [Find issues / PRs opened by a user in an org][search-issues]
-*   [Find issues / PRs with comments by a user in an org][search-comments]
-*   [Find PRs with reviews by a user in an org][search-reviews]
+* [Find commits by a user in an org][search-commits]
+* [Find issues / PRs opened by a user in an org][search-issues]
+* [Find issues / PRs with comments by a user in an org][search-comments]
+* [Find PRs with reviews by a user in an org][search-reviews]
 
 > You can also [search in the entire collective][search-collective].
 
 Typical participation of a member includes:
 
-*   Asking questions
-*   Reporting problems and requesting new features
-*   Commenting on issues and pull requests
-*   Triaging issues
-*   Requesting motions
+* Asking questions
+* Reporting problems and requesting new features
+* Commenting on issues and pull requests
+* Triaging issues
+* Requesting motions
 
 Typical participation of an organization team maintainer includes:
 
-*   Answering questions and helping novice contributors
-*   Contributing code, non-code, and documentation changes that improve the
-    scope of the team
-*   Reviewing and merging pull requests
-*   Participating in initiatives and discussions
+* Answering questions and helping novice contributors
+* Contributing code, non-code, and documentation changes that improve the
+  scope of the team
+* Reviewing and merging pull requests
+* Participating in initiatives and discussions
 
 Maintainers are not required to contribute code.
 It is, however, required that maintainers have actively participated for a
@@ -133,20 +133,20 @@ consistent and significant amount of time already.
 
 Typical participation of a moderation team maintainer includes:
 
-*   Enforcing the code of conduct
-*   Expelling members and blocking users
+* Enforcing the code of conduct
+* Expelling members and blocking users
 
 Typical participation of a core team maintainer includes:
 
-*   Focusing on overarching concerns
-*   Voting to accept or dismiss motions
-*   Enacting accepted motions
-*   Communicating between all teams
+* Focusing on overarching concerns
+* Voting to accept or dismiss motions
+* Enacting accepted motions
+* Communicating between all teams
 
 Typical participation of a lead includes:
 
-*   Setting up a team
-*   Ensuring initiatives are progressing at a reasonable rate
+* Setting up a team
+* Ensuring initiatives are progressing at a reasonable rate
 
 ## Motions
 
@@ -345,15 +345,15 @@ maintainer (if a collective team).
 The result of *inviting* is that a user (the nominee) becomes a contributor on
 one or more teams.
 
-*   Nominee ensures 2FA is enabled on GitHub
-*   Nominee confirms that they have read, understand, and agree to uphold the
-    code of conduct
-*   Enactor adds the nominee, if not already listed, to
-    [`data/humans.yml`][humans]
-*   Enactor adds the nominee to the respective teams as a `contributor` in
-    [`data/teams.yml`][teams]
-*   Tooling automatically invites the nominee and sets their [permissions][] on
-    GitHub within 24 hours
+* Nominee ensures 2FA is enabled on GitHub
+* Nominee confirms that they have read, understand, and agree to uphold the
+  code of conduct
+* Enactor adds the nominee, if not already listed, to
+  [`data/humans.yml`][humans]
+* Enactor adds the nominee to the respective teams as a `contributor` in
+  [`data/teams.yml`][teams]
+* Tooling automatically invites the nominee and sets their [permissions][] on
+  GitHub within 24 hours
 
 ### Onboarding
 
@@ -364,24 +364,24 @@ any maintainer (if a collective team).
 The result of *onboarding* is that a contributor (the nominee) becomes a
 maintainer on a team.
 
-*   Enactor adds the npm handle of the nominee, if known and not already listed,
-    to [`data/humans.yml`][humans]
-*   Enactor changes the role of the nominee in the team from `contributor` to
-    `merger` (if an organization team) or `maintainer` (if a collective team) in
-    [`data/teams.yml`][teams]
-*   Tooling automatically updates the nominee and changes their [permissions][]
-    on GitHub, and invites the nominee and sets their permissions on npm, within
-    24 hours
-*   Enactor and nominee should schedule a call to walk through relevant
-    processes, documents, and expectations
+* Enactor adds the npm handle of the nominee, if known and not already listed,
+  to [`data/humans.yml`][humans]
+* Enactor changes the role of the nominee in the team from `contributor` to
+  `merger` (if an organization team) or `maintainer` (if a collective team) in
+  [`data/teams.yml`][teams]
+* Tooling automatically updates the nominee and changes their [permissions][]
+  on GitHub, and invites the nominee and sets their permissions on npm, within
+  24 hours
+* Enactor and nominee should schedule a call to walk through relevant
+  processes, documents, and expectations
 
 If the nominee is added to a collective team, the following steps additionally
 apply:
 
-*   Enactor adds the nominee to OpenCollective
-*   [**@wooorm**][wooorm] sets up an email address for the nominee and ensures
-    the relevant collective email addresses are forwarded to it
-*   Nominee confirms emails can be received
+* Enactor adds the nominee to OpenCollective
+* [**@wooorm**][wooorm] sets up an email address for the nominee and ensures
+  the relevant collective email addresses are forwarded to it
+* Nominee confirms emails can be received
 
 ### Awarding
 
@@ -391,15 +391,15 @@ The enactor of the playbook is the lead of a team.
 The result of *awarding* is that a merger (the nominee) becomes a releaser on a
 team.
 
-*   Nominee ensures 2FA is enabled on npm
-*   Enactor adds the npm handle of the nominee, if not already listed, to
-    [`data/humans.yml`][humans]
-*   Enactor changes the role of the nominee in the team from `merger` to
-    `releaser` in [`data/teams.yml`][teams]
-*   Tooling automatically updates the nominee and changes their [permissions][]
-    on GitHub and npm within 24 hours
-*   Enactor and nominee should schedule a call to walk through relevant
-    processes, documents, and expectations
+* Nominee ensures 2FA is enabled on npm
+* Enactor adds the npm handle of the nominee, if not already listed, to
+  [`data/humans.yml`][humans]
+* Enactor changes the role of the nominee in the team from `merger` to
+  `releaser` in [`data/teams.yml`][teams]
+* Tooling automatically updates the nominee and changes their [permissions][]
+  on GitHub and npm within 24 hours
+* Enactor and nominee should schedule a call to walk through relevant
+  processes, documents, and expectations
 
 ### Succession
 
@@ -411,14 +411,14 @@ of the team.
 
 If the nominee is not the enactor, the following steps are taken:
 
-*   Enactor changes the `lead` field in [`data/teams.yml`][teams] to the GitHub
-    handle of the nominee
-*   Tooling automatically updates the enactor and nominee and changes their
-    [permissions][] on GitHub within 24 hours.
-    Enactor may have to manually perform destructive actions as reported by
-    tooling
-*   Enactor and nominee should schedule a call to walk through relevant
-    processes, documents, and expectations
+* Enactor changes the `lead` field in [`data/teams.yml`][teams] to the GitHub
+  handle of the nominee
+* Tooling automatically updates the enactor and nominee and changes their
+  [permissions][] on GitHub within 24 hours.
+  Enactor may have to manually perform destructive actions as reported by
+  tooling
+* Enactor and nominee should schedule a call to walk through relevant
+  processes, documents, and expectations
 
 ### Offboarding
 
@@ -434,34 +434,34 @@ maintainer, or contributor on a team.
 Note that if the nominee is being excused from duty as a collective core team
 maintainer, they are also excused from duty as lead of any organization teams.
 
-*   If nominee is being excused from duty as a lead, the collective core team
-    appoints a guest lead.
-    The guest lead is tasked with requesting a motion to elect a lead.
-    This may take up to 45 days
-*   If the nominee is being excused from duty as a collective moderation team
-    maintainer, and the team is getting too small, the collective core team
-    appoints a guest moderator.
-    The guest moderator and remaining moderators are tasked with finding
-    suitable replacement.
-    This may take up to 45 days
-*   If the nominee is being excused from duty as a releaser and the set of
-    releasers on the team is getting too small, enactor raises a call for
-    releasers to ask that current mergers request a *motion to nominate a
-    releaser*.
-    This may take up to 7 days
-*   Enactor changes the role of the nominee in the respective teams to the
-    approved role in [`data/teams.yml`][teams]
-*   Tooling automatically updates the nominee and changes their [permissions][]
-    on GitHub and npm within 24 hours.
-    Enactor may have to manually perform destructive actions as reported by
-    tooling
+* If nominee is being excused from duty as a lead, the collective core team
+  appoints a guest lead.
+  The guest lead is tasked with requesting a motion to elect a lead.
+  This may take up to 45 days
+* If the nominee is being excused from duty as a collective moderation team
+  maintainer, and the team is getting too small, the collective core team
+  appoints a guest moderator.
+  The guest moderator and remaining moderators are tasked with finding
+  suitable replacement.
+  This may take up to 45 days
+* If the nominee is being excused from duty as a releaser and the set of
+  releasers on the team is getting too small, enactor raises a call for
+  releasers to ask that current mergers request a *motion to nominate a
+  releaser*.
+  This may take up to 7 days
+* Enactor changes the role of the nominee in the respective teams to the
+  approved role in [`data/teams.yml`][teams]
+* Tooling automatically updates the nominee and changes their [permissions][]
+  on GitHub and npm within 24 hours.
+  Enactor may have to manually perform destructive actions as reported by
+  tooling
 
 If the nominee is removed from a collective team as a maintainer, the following
 steps additionally apply:
 
-*   Enactor removes the nominee from OpenCollective
-*   [**@wooorm**][wooorm] removes the nominee’s email address and ensures the
-    relevant collective email addresses are no longer forwarded to them.
+* Enactor removes the nominee from OpenCollective
+* [**@wooorm**][wooorm] removes the nominee’s email address and ensures the
+  relevant collective email addresses are no longer forwarded to them.
 
 <!-- Definitions -->
 

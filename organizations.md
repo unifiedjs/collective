@@ -13,20 +13,20 @@ This document is developed by the unified collective core team.
 
 ## Table of contents
 
-*   [Projects](#projects)
-    *   [Maintenance](#maintenance)
-    *   [Management](#management)
-    *   [Meta projects](#meta-projects)
-*   [Motions](#motions)
-    *   [Motion to archive a project](#motion-to-archive-a-project)
-    *   [Motion to delete a project](#motion-to-delete-a-project)
-    *   [Motion to withdraw governance](#motion-to-withdraw-governance)
-    *   [Motion to grant governance](#motion-to-grant-governance)
-*   [Playbooks](#playbooks)
-    *   [Archival](#archival)
-    *   [Removal](#removal)
-    *   [Withdrawal](#withdrawal)
-    *   [Granting](#granting)
+* [Projects](#projects)
+  * [Maintenance](#maintenance)
+  * [Management](#management)
+  * [Meta projects](#meta-projects)
+* [Motions](#motions)
+  * [Motion to archive a project](#motion-to-archive-a-project)
+  * [Motion to delete a project](#motion-to-delete-a-project)
+  * [Motion to withdraw governance](#motion-to-withdraw-governance)
+  * [Motion to grant governance](#motion-to-grant-governance)
+* [Playbooks](#playbooks)
+  * [Archival](#archival)
+  * [Removal](#removal)
+  * [Withdrawal](#withdrawal)
+  * [Granting](#granting)
 
 ## Projects
 
@@ -168,20 +168,20 @@ Other projects may overwrite these files.
 
 It should include the following health files:
 
-*   `.github/ISSUE_TEMPLATE/*.md`:
-    Templates that guide new issues ([example][c-issue])
-*   `.github/pull-request-template.md`:
-    Template that guides new PRs ([example][c-pr])
-*   `code-of-conduct.md`:
-    Copy of our [code of conduct][c-coc]
-*   `contributing.md`:
-    Docs that explain how to contribute ([example][c-contributing])
-*   `funding.yml`:
-    Config file to display a sponsor button ([example][c-funding])
-*   `security.md`:
-    Docs that explain how to report security issues ([example][c-security])
-*   `support.md`:
-    Docs that explain how to get support ([example][c-support])
+* `.github/ISSUE_TEMPLATE/*.md`:
+  Templates that guide new issues ([example][c-issue])
+* `.github/pull-request-template.md`:
+  Template that guides new PRs ([example][c-pr])
+* `code-of-conduct.md`:
+  Copy of our [code of conduct][c-coc]
+* `contributing.md`:
+  Docs that explain how to contribute ([example][c-contributing])
+* `funding.yml`:
+  Config file to display a sponsor button ([example][c-funding])
+* `security.md`:
+  Docs that explain how to report security issues ([example][c-security])
+* `support.md`:
+  Docs that explain how to get support ([example][c-support])
 
 Furthermore, it should include a `readme.md`.
 
@@ -277,13 +277,13 @@ The enactor of the playbook is a lead of a team.
 The result of *archival* is that packages are deprecated and a repository is
 archived, because the project no longer maintained by the collective.
 
-*   If the project includes published packages, enactor (or a by the enactor
-    appointed releaser) deprecates them when needed
-*   Enactor may close open issues and pull requests to notify persons that the
-    project is no longer maintained
-*   Enactor updates the repository description on GitHub to state that the
-    project is no longer maintained
-*   Enactor archives the repository on GitHub
+* If the project includes published packages, enactor (or a by the enactor
+  appointed releaser) deprecates them when needed
+* Enactor may close open issues and pull requests to notify persons that the
+  project is no longer maintained
+* Enactor updates the repository description on GitHub to state that the
+  project is no longer maintained
+* Enactor archives the repository on GitHub
 
 ### Removal
 
@@ -293,9 +293,9 @@ The enactor of the playbook is a lead of a team.
 The result of *removal* is that packages are deprecated and a repository is
 deleted.
 
-*   If the project includes published packages, enactor (or a by the enactor
-    appointed releaser) deprecates them when needed
-*   Enactor deletes the repository on GitHub
+* If the project includes published packages, enactor (or a by the enactor
+  appointed releaser) deprecates them when needed
+* Enactor deletes the repository on GitHub
 
 ### Withdrawal
 
@@ -306,13 +306,13 @@ The person is the proposed owner of the project.
 The result of *withdrawal* is that a project is no longer governed by the
 collective.
 
-*   Enactor removes references to the unified collective from the project
-*   Enactor transfers the project to person
-*   If the project includes published packages, enactor (or a by the enactor
-    appointed releaser) moves them from the organization to their own account,
-    and invites person as a maintainer to all packages
-*   If there are guest maintainers associated with the project, enactor removes
-    them from [`github-tools`][gh-tools]
+* Enactor removes references to the unified collective from the project
+* Enactor transfers the project to person
+* If the project includes published packages, enactor (or a by the enactor
+  appointed releaser) moves them from the organization to their own account,
+  and invites person as a maintainer to all packages
+* If there are guest maintainers associated with the project, enactor removes
+  them from [`github-tools`][gh-tools]
 
 ### Granting
 
@@ -323,18 +323,18 @@ The enactor of the playbook is a lead of a team.
 The result of *granting* is that a project comes under governance of the
 collective.
 
-*   Member transfers the project to enactor
-*   If the project includes published packages, member invites
-    [**@wooorm**][wooorm] as a maintainer to all packages
-*   Enactor transfers the project to the organization
-*   If the member is contributor on the team, enactor configures member as a
-    guest maintainer in [`github-tools`][gh-tools]
-*   Tooling will automatically update [permissions][] on GitHub and npm within
-    24 hours.
-    Enactor may have to manually perform actions as reported by tooling
-*   Enactor and member make sure the project matches other projects inside the
-    organization, such as having a “Contributing” section, a proper license,
-    etc.
+* Member transfers the project to enactor
+* If the project includes published packages, member invites
+  [**@wooorm**][wooorm] as a maintainer to all packages
+* Enactor transfers the project to the organization
+* If the member is contributor on the team, enactor configures member as a
+  guest maintainer in [`github-tools`][gh-tools]
+* Tooling will automatically update [permissions][] on GitHub and npm within
+  24 hours.
+  Enactor may have to manually perform actions as reported by tooling
+* Enactor and member make sure the project matches other projects inside the
+  organization, such as having a “Contributing” section, a proper license,
+  etc.
 
 <!-- Definitions -->
 

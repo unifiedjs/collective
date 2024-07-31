@@ -10,10 +10,10 @@ This document is developed by the unified collective core team.
 
 ## Table of contents
 
-*   [Initiatives](#initiatives)
-    *   [Issues](#issues)
-    *   [RFCs](#rfcs)
-    *   [Motions](#motions)
+* [Initiatives](#initiatives)
+  * [Issues](#issues)
+  * [RFCs](#rfcs)
+  * [Motions](#motions)
 
 ## Initiatives
 

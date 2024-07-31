@@ -1,8 +1,8 @@
 # Invoice: unified collective
 
-*   **Date**: 2000-00-00
-*   **Person**: FULL\_NAME ([@GITHUB\_HANDLE](https://github.com/GITHUB_HANDLE))
-*   **Rate**: $HOURLY\_RATE/hr
+* **Date**: 2000-00-00
+* **Person**: FULL\_NAME ([@GITHUB\_HANDLE](https://github.com/GITHUB_HANDLE))
+* **Rate**: $HOURLY\_RATE/hr
 
 ## Items
 
@@ -12,5 +12,5 @@
 
 ***
 
-*   **Other relevant**: <https://unifiedjs.com>
-*   **Links**: <https://github.com/unifiedjs>
+* **Other relevant**: <https://unifiedjs.com>
+* **Links**: <https://github.com/unifiedjs>

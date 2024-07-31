@@ -9,32 +9,32 @@ the collective is governed.
 This document describes the teams of the collective.
 Additional policies describe other aspects of governance in detail:
 
-*   [`decisions.md`][decisions-policy] — how decisions are made
-*   [`members.md`][members-policy] — how people participate
-*   [`moderation.md`][moderation-policy] — how the code of conduct is enforced
-*   [`organizations.md`][organizations-policy] — how organizations are managed
-*   [`permissions.md`][permissions-policy] — the permissions members have
+* [`decisions.md`][decisions-policy] — how decisions are made
+* [`members.md`][members-policy] — how people participate
+* [`moderation.md`][moderation-policy] — how the code of conduct is enforced
+* [`organizations.md`][organizations-policy] — how organizations are managed
+* [`permissions.md`][permissions-policy] — the permissions members have
 
 ## Table of contents
 
-*   [Teams](#teams)
-*   [Organization teams](#organization-teams)
-    *   [unified team](#unified-team)
-    *   [remark team](#remark-team)
-    *   [rehype team](#rehype-team)
-    *   [retext team](#retext-team)
-    *   [redot team](#redot-team)
-    *   [mdx team](#mdx-team)
-    *   [micromark team](#micromark-team)
-    *   [syntax tree team](#syntax-tree-team)
-    *   [vfile team](#vfile-team)
-*   [Collective teams](#collective-teams)
-    *   [Core team](#core-team)
-    *   [Moderation team](#moderation-team)
-*   [Glossary](#glossary)
-*   [Code of conduct](#code-of-conduct)
-*   [Acknowledgements](#acknowledgements)
-*   [License](#license)
+* [Teams](#teams)
+* [Organization teams](#organization-teams)
+  * [unified team](#unified-team)
+  * [remark team](#remark-team)
+  * [rehype team](#rehype-team)
+  * [retext team](#retext-team)
+  * [redot team](#redot-team)
+  * [mdx team](#mdx-team)
+  * [micromark team](#micromark-team)
+  * [syntax tree team](#syntax-tree-team)
+  * [vfile team](#vfile-team)
+* [Collective teams](#collective-teams)
+  * [Core team](#core-team)
+  * [Moderation team](#moderation-team)
+* [Glossary](#glossary)
+* [Code of conduct](#code-of-conduct)
+* [Acknowledgements](#acknowledgements)
+* [License](#license)
 
 ## Teams
 
@@ -65,35 +65,35 @@ The [core][] and [moderation][] teams are special.
 Teams serve as leadership for their scope.
 They:
 
-*   **Set the direction**:
-    setting the values that are used when making decisions about tradeoffs,
-    steering the scope toward specific directions, and leading the discussion
-    for initiatives
-*   **Shepherd initiatives**:
-    making stakeholders (people who are strongly affected by decisions) aware of
-    initiatives, teasing out design tradeoffs and alternatives, and helping
-    build consensus
-*   **Accept or reject issues, pull requests, and RFCs**:
-    deciding on initiatives, whether small or substantial
-*   **Nominate team members**:
-    nominating individuals making significant and valuable contributions across
-    to be part of the team
+* **Set the direction**:
+  setting the values that are used when making decisions about tradeoffs,
+  steering the scope toward specific directions, and leading the discussion
+  for initiatives
+* **Shepherd initiatives**:
+  making stakeholders (people who are strongly affected by decisions) aware of
+  initiatives, teasing out design tradeoffs and alternatives, and helping
+  build consensus
+* **Accept or reject issues, pull requests, and RFCs**:
+  deciding on initiatives, whether small or substantial
+* **Nominate team members**:
+  nominating individuals making significant and valuable contributions across
+  to be part of the team
 
 Teams should be made up of:
 
-*   **Area experts**:
-    people who have a lot of interest and expertise in the area covered by the
-    team, but who may be far less engaged with other areas of the collective
-*   **Stakeholders**:
-    people who are strongly affected by decisions in the area of the team, but
-    who may not be experts in the design or implementation of that area
+* **Area experts**:
+  people who have a lot of interest and expertise in the area covered by the
+  team, but who may be far less engaged with other areas of the collective
+* **Stakeholders**:
+  people who are strongly affected by decisions in the area of the team, but
+  who may not be experts in the design or implementation of that area
 
 How teams communicate internally and externally is left to each team to decide,
 but:
 
-*   Discussion should take place as much as possible in public spaces, ideally
-    on issues, pull requests, or GitHub discussions
-*   Teams should actively seek out discussion and input from non-members
+* Discussion should take place as much as possible in public spaces, ideally
+  on issues, pull requests, or GitHub discussions
+* Teams should actively seek out discussion and input from non-members
 
 ## Organization teams
 
@@ -102,17 +102,17 @@ under it.
 
 They have the same responsibilities as [all teams][all], and additionally:
 
-*   **Escalate initiatives affecting the collective to a collective team**
-*   **Implement accepted collective-level initiatives**
-*   **Define policy on what form changes should take**:
-    such as which can be a direct pull request or RFC, which need to be
-    escalated, and which can be handled by the team itself
+* **Escalate initiatives affecting the collective to a collective team**
+* **Implement accepted collective-level initiatives**
+* **Define policy on what form changes should take**:
+  such as which can be a direct pull request or RFC, which need to be
+  escalated, and which can be handled by the team itself
 
 Organization teams additionally include:
 
-*   **Team lead**:
-    person responsible for ensuring initiatives are progressing at a reasonable
-    rate
+* **Team lead**:
+  person responsible for ensuring initiatives are progressing at a reasonable
+  rate
 
 ### unified team
 
@@ -125,50 +125,50 @@ The **unified team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
 
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    \<johnotander\@gmail.com>
+* John Otander
+  ([**@johno**](https://github.com/johno))
+  \<johnotander\@gmail.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Junyoung Choi
-    ([**@Rokt33r**](https://github.com/Rokt33r))
-    \<fluke8259\@gmail.com>
+* Junyoung Choi
+  ([**@Rokt33r**](https://github.com/Rokt33r))
+  \<fluke8259\@gmail.com>
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
 #### Contributors
 
-*   Mudit Ameta
-    ([**@zeusdeux**](https://github.com/zeusdeux))
-    \<zeusdeux\@gmail.com>
+* Mudit Ameta
+  ([**@zeusdeux**](https://github.com/zeusdeux))
+  \<zeusdeux\@gmail.com>
 
-*   Stephan Schneider
-    ([**@zcei**](https://github.com/zcei))
-    \<stephanschndr\@gmail.com>
+* Stephan Schneider
+  ([**@zcei**](https://github.com/zcei))
+  \<stephanschndr\@gmail.com>
 
-*   Victor Felder
-    ([**@vhf**](https://github.com/vhf))
-    \<victor\@draft.li>
+* Victor Felder
+  ([**@vhf**](https://github.com/vhf))
+  \<victor\@draft.li>
 
 <!--humans end-->
 
@@ -183,66 +183,66 @@ The **remark team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    \<johnotander\@gmail.com>
+* John Otander
+  ([**@johno**](https://github.com/johno))
+  \<johnotander\@gmail.com>
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
 
-*   Jonathan Haines
-    ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
-    \<jonno.haines\@gmail.com>
+* Jonathan Haines
+  ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
+  \<jonno.haines\@gmail.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Junyoung Choi
-    ([**@Rokt33r**](https://github.com/Rokt33r))
-    \<fluke8259\@gmail.com>
+* Junyoung Choi
+  ([**@Rokt33r**](https://github.com/Rokt33r))
+  \<fluke8259\@gmail.com>
 
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    \<keith\@mcknig.ht>
+* Keith McKnight
+  ([**@kmck**](https://github.com/kmck))
+  \<keith\@mcknig.ht>
 
-*   Marouane Fazouane
-    ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
-    \<fazouanem3\@gmail.com>
+* Marouane Fazouane
+  ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
+  \<fazouanem3\@gmail.com>
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
-*   Victor Felder
-    ([**@vhf**](https://github.com/vhf))
-    \<victor\@draft.li>
+* Victor Felder
+  ([**@vhf**](https://github.com/vhf))
+  \<victor\@draft.li>
 
-*   Zeke Sikelianos
-    ([**@zeke**](https://github.com/zeke))
-    \<zeke\@sikelianos.com>
+* Zeke Sikelianos
+  ([**@zeke**](https://github.com/zeke))
+  \<zeke\@sikelianos.com>
 
 #### Contributors
 
-*   Mudit Ameta
-    ([**@zeusdeux**](https://github.com/zeusdeux))
-    \<zeusdeux\@gmail.com>
+* Mudit Ameta
+  ([**@zeusdeux**](https://github.com/zeusdeux))
+  \<zeusdeux\@gmail.com>
 
-*   Nikita Sobolev
-    ([**@sobolevn**](https://github.com/sobolevn))
-    \<mail\@sobolevn.me>
+* Nikita Sobolev
+  ([**@sobolevn**](https://github.com/sobolevn))
+  \<mail\@sobolevn.me>
 
 <!--humans end-->
 
@@ -257,42 +257,42 @@ The **rehype team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    \<keith\@mcknig.ht>
+* Keith McKnight
+  ([**@kmck**](https://github.com/kmck))
+  \<keith\@mcknig.ht>
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
 
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    \<johnotander\@gmail.com>
+* John Otander
+  ([**@johno**](https://github.com/johno))
+  \<johnotander\@gmail.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
 #### Contributors
 
-*   Victor Felder
-    ([**@vhf**](https://github.com/vhf))
-    \<victor\@draft.li>
+* Victor Felder
+  ([**@vhf**](https://github.com/vhf))
+  \<victor\@draft.li>
 
 <!--humans end-->
 
@@ -307,22 +307,22 @@ The **retext team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
 #### Contributors
 
-*   Richard Littauer
-    ([**@RichardLitt**](https://github.com/RichardLitt))
-    \<richard\@maintainer.io>
+* Richard Littauer
+  ([**@RichardLitt**](https://github.com/RichardLitt))
+  \<richard\@maintainer.io>
 
 <!--humans end-->
 
@@ -337,14 +337,14 @@ The **redot team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
-    (**lead**)
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
+  (**lead**)
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
 
 ##### Mergers
 
@@ -363,65 +363,65 @@ The **mdx team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    \<johnotander\@gmail.com>
-    (**lead**)
+* John Otander
+  ([**@johno**](https://github.com/johno))
+  \<johnotander\@gmail.com>
+  (**lead**)
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
-*   Tim Neutkens
-    ([**@timneutkens**](https://github.com/timneutkens))
-    \<tim\@vercel.com>
+* Tim Neutkens
+  ([**@timneutkens**](https://github.com/timneutkens))
+  \<tim\@vercel.com>
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
 
 ##### Mergers
 
-*   Christopher Biscardi
-    ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
-    \<chris\@christopherbiscardi.com>
+* Christopher Biscardi
+  ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
+  \<chris\@christopherbiscardi.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Laurie Barth
-    ([**@laurieontech**](https://github.com/laurieontech))
+* Laurie Barth
+  ([**@laurieontech**](https://github.com/laurieontech))
 
-*   Sidhartha Chatterjee
-    ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
-    \<me\@sidharthachatterjee.com>
+* Sidhartha Chatterjee
+  ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
+  \<me\@sidharthachatterjee.com>
 
 #### Contributors
 
-*   Adam Morse
-    ([**@mrmrs**](https://github.com/mrmrs))
-    \<hi\@mrmrs.cc>
+* Adam Morse
+  ([**@mrmrs**](https://github.com/mrmrs))
+  \<hi\@mrmrs.cc>
 
-*   Ahmad Awais
-    ([**@ahmadawais**](https://github.com/ahmadawais))
-    \<me\@AhmadAwais.com>
+* Ahmad Awais
+  ([**@ahmadawais**](https://github.com/ahmadawais))
+  \<me\@AhmadAwais.com>
 
-*   Brent Jackson
-    ([**@jxnblk**](https://github.com/jxnblk))
-    \<jxnblk\@gmail.com>
+* Brent Jackson
+  ([**@jxnblk**](https://github.com/jxnblk))
+  \<jxnblk\@gmail.com>
 
-*   Guillermo Rauch
-    ([**@rauchg**](https://github.com/rauchg))
-    \<rauchg\@gmail.com>
+* Guillermo Rauch
+  ([**@rauchg**](https://github.com/rauchg))
+  \<rauchg\@gmail.com>
 
-*   Jessica Stokes
-    ([**@ticky**](https://github.com/ticky))
-    \<hello\@jessicastokes.net>
+* Jessica Stokes
+  ([**@ticky**](https://github.com/ticky))
+  \<hello\@jessicastokes.net>
 
-*   Stephan Schneider
-    ([**@zcei**](https://github.com/zcei))
-    \<stephanschndr\@gmail.com>
+* Stephan Schneider
+  ([**@zcei**](https://github.com/zcei))
+  \<stephanschndr\@gmail.com>
 
 <!--humans end-->
 
@@ -436,46 +436,46 @@ The **micromark team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    \<johnotander\@gmail.com>
+* John Otander
+  ([**@johno**](https://github.com/johno))
+  \<johnotander\@gmail.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Marouane Fazouane
-    ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
-    \<fazouanem3\@gmail.com>
+* Marouane Fazouane
+  ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
+  \<fazouanem3\@gmail.com>
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
 #### Contributors
 
-*   Mudit Ameta
-    ([**@zeusdeux**](https://github.com/zeusdeux))
-    \<zeusdeux\@gmail.com>
+* Mudit Ameta
+  ([**@zeusdeux**](https://github.com/zeusdeux))
+  \<zeusdeux\@gmail.com>
 
-*   Stephan Schneider
-    ([**@zcei**](https://github.com/zcei))
-    \<stephanschndr\@gmail.com>
+* Stephan Schneider
+  ([**@zcei**](https://github.com/zcei))
+  \<stephanschndr\@gmail.com>
 
-*   Victor Felder
-    ([**@vhf**](https://github.com/vhf))
-    \<victor\@draft.li>
+* Victor Felder
+  ([**@vhf**](https://github.com/vhf))
+  \<victor\@draft.li>
 
 <!--humans end-->
 
@@ -490,36 +490,36 @@ The **syntax tree team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Keith McKnight
-    ([**@kmck**](https://github.com/kmck))
-    \<keith\@mcknig.ht>
+* Keith McKnight
+  ([**@kmck**](https://github.com/kmck))
+  \<keith\@mcknig.ht>
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
 
-*   Jonathan Haines
-    ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
-    \<jonno.haines\@gmail.com>
+* Jonathan Haines
+  ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
+  \<jonno.haines\@gmail.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
 <!--humans end-->
 
@@ -534,34 +534,34 @@ The **vfile team** is an *[organization][]* team responsible for
 
 ##### Releasers
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
-    (**lead**)
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
+  (**lead**)
 
 ##### Mergers
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
 
-*   Joun Qin
-    ([**@JounQin**](https://github.com/JounQin))
-    \<admin\@1stg.me>
+* Joun Qin
+  ([**@JounQin**](https://github.com/JounQin))
+  \<admin\@1stg.me>
 
-*   Junyoung Choi
-    ([**@Rokt33r**](https://github.com/Rokt33r))
-    \<fluke8259\@gmail.com>
+* Junyoung Choi
+  ([**@Rokt33r**](https://github.com/Rokt33r))
+  \<fluke8259\@gmail.com>
 
-*   Remco Haszing
-    ([**@remcohaszing**](https://github.com/remcohaszing))
-    \<remcohaszing\@gmail.com>
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 
 #### Contributors
 
-*   Olivia Hugger
-    ([**@komaeda**](https://github.com/komaeda))
-    \<mokou\@posteo.de>
+* Olivia Hugger
+  ([**@komaeda**](https://github.com/komaeda))
+  \<mokou\@posteo.de>
 
 <!--humans end-->
 
@@ -572,10 +572,10 @@ organizations under it.
 
 They have the same responsibilities as [all teams][all], and additionally:
 
-*   **De-escalate initiatives to organization teams**
-*   **Focus on overarching concerns**:
-    they are specifically designed to take a *global* view of the collective, to
-    make sure the pieces are fitting together in a coherent way
+* **De-escalate initiatives to organization teams**
+* **Focus on overarching concerns**:
+  they are specifically designed to take a *global* view of the collective, to
+  make sure the pieces are fitting together in a coherent way
 
 ### Core team
 
@@ -586,47 +586,47 @@ not include **[moderation team][moderation]** members.
 
 They:
 
-*   **Set the direction and vision for the collective across organizations**:
-    setting the core values that are used when making decisions about tradeoffs,
-    steering the collective toward specific directions, and leading the
-    discussion for **major** initiatives
-*   **Spin up or shut down teams**:
-    creating teams around new (temporary) areas and dissolving teams when their
-    area is complete
-*   **Accept or reject motions**:
-    deciding on initiatives involving people and destructive actions on projects
-*   **Follow playbooks**:
-    following certain steps to enact accepted motions
+* **Set the direction and vision for the collective across organizations**:
+  setting the core values that are used when making decisions about tradeoffs,
+  steering the collective toward specific directions, and leading the
+  discussion for **major** initiatives
+* **Spin up or shut down teams**:
+  creating teams around new (temporary) areas and dissolving teams when their
+  area is complete
+* **Accept or reject motions**:
+  deciding on initiatives involving people and destructive actions on projects
+* **Follow playbooks**:
+  following certain steps to enact accepted motions
 
 <!--humans start team=core shift=3-->
 
 #### Members
 
-*   Christian Murphy
-    ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
-    \<christian.murphy.42\@gmail.com>
+* Christian Murphy
+  ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
+  \<christian.murphy.42\@gmail.com>
 
-*   John Otander
-    ([**@johno**](https://github.com/johno))
-    \<johnotander\@gmail.com>
+* John Otander
+  ([**@johno**](https://github.com/johno))
+  \<johnotander\@gmail.com>
 
-*   Merlijn Vos
-    ([**@Murderlon**](https://github.com/Murderlon))
-    \<merlijn\@soverin.net>
+* Merlijn Vos
+  ([**@Murderlon**](https://github.com/Murderlon))
+  \<merlijn\@soverin.net>
 
-*   Titus Wormer
-    ([**@wooorm**](https://github.com/wooorm))
-    \<tituswormer\@gmail.com>
+* Titus Wormer
+  ([**@wooorm**](https://github.com/wooorm))
+  \<tituswormer\@gmail.com>
 
 #### Contributors
 
-*   Richard Littauer
-    ([**@RichardLitt**](https://github.com/RichardLitt))
-    \<richard\@maintainer.io>
+* Richard Littauer
+  ([**@RichardLitt**](https://github.com/RichardLitt))
+  \<richard\@maintainer.io>
 
-*   Stephan Schneider
-    ([**@zcei**](https://github.com/zcei))
-    \<stephanschndr\@gmail.com>
+* Stephan Schneider
+  ([**@zcei**](https://github.com/zcei))
+  \<stephanschndr\@gmail.com>
 
 <!--humans end-->
 
@@ -641,13 +641,13 @@ not include **[core team][core]** members.
 
 #### Members
 
-*   Olivia Hugger
-    ([**@komaeda**](https://github.com/komaeda))
-    \<mokou\@posteo.de>
+* Olivia Hugger
+  ([**@komaeda**](https://github.com/komaeda))
+  \<mokou\@posteo.de>
 
-*   Richard Littauer
-    ([**@RichardLitt**](https://github.com/RichardLitt))
-    \<richard\@maintainer.io>
+* Richard Littauer
+  ([**@RichardLitt**](https://github.com/RichardLitt))
+  \<richard\@maintainer.io>
 
 <!--humans end-->
 

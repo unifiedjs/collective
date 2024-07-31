@@ -6,25 +6,25 @@ across several services.
 Whether to grant permissions is determined by optimizing for the following
 conflicting requirements:
 
-*   Limiting access to reduce risk
-*   Increasing access to improve the bus factor
-*   Enabling persons to move forward without undue delay
+* Limiting access to reduce risk
+* Increasing access to improve the bus factor
+* Enabling persons to move forward without undue delay
 
 This document is developed by the unified collective core team.
 
 ## Table of contents
 
-*   [GitHub](#github)
-    *   [GitHub organization](#github-organization)
-    *   [GitHub teams](#github-teams)
-*   [npm](#npm)
-    *   [npm organization](#npm-organization)
-    *   [npm teams](#npm-teams)
-*   [OpenCollective](#opencollective)
-*   [Twitter](#twitter)
-*   [Domains](#domains)
-*   [Email](#email)
-*   [License](#license)
+* [GitHub](#github)
+  * [GitHub organization](#github-organization)
+  * [GitHub teams](#github-teams)
+* [npm](#npm)
+  * [npm organization](#npm-organization)
+  * [npm teams](#npm-teams)
+* [OpenCollective](#opencollective)
+* [Twitter](#twitter)
+* [Domains](#domains)
+* [Email](#email)
+* [License](#license)
 
 ## GitHub
 
@@ -47,27 +47,27 @@ respective GitHub organization.
 
 The GitHub organization consists of GitHub teams:
 
-*   `members`
-    — includes members; maintained by the lead; [**triage**][gh-repo-perms]
-    permissions
-*   `contributors`
-    — includes contributors; maintained by the lead; [**triage**][gh-repo-perms]
-    permissions
-*   `maintainers`
-    — includes maintainers; maintained by the lead; [**write**][gh-repo-perms]
-    permissions
-*   `mergers`
-    — includes mergers; maintained by the lead; [**write**][gh-repo-perms]
-    permissions
-*   `releasers`
-    — includes releasers; maintained by the lead; [**maintain**][gh-repo-perms]
-    permissions
-*   `core`
-    — includes collective core team maintainers; maintained by the lead;
-    [**admin**][gh-repo-perms] permissions
-*   `moderators`
-    — includes collective moderation team maintainers; maintained by the lead;
-    [**admin**][gh-repo-perms] permissions
+* `members`
+  — includes members; maintained by the lead; [**triage**][gh-repo-perms]
+  permissions
+* `contributors`
+  — includes contributors; maintained by the lead; [**triage**][gh-repo-perms]
+  permissions
+* `maintainers`
+  — includes maintainers; maintained by the lead; [**write**][gh-repo-perms]
+  permissions
+* `mergers`
+  — includes mergers; maintained by the lead; [**write**][gh-repo-perms]
+  permissions
+* `releasers`
+  — includes releasers; maintained by the lead; [**maintain**][gh-repo-perms]
+  permissions
+* `core`
+  — includes collective core team maintainers; maintained by the lead;
+  [**admin**][gh-repo-perms] permissions
+* `moderators`
+  — includes collective moderation team maintainers; maintained by the lead;
+  [**admin**][gh-repo-perms] permissions
 
 Maintainers of collective teams may not use their administrative permissions,
 except when explicitly allowed by collective governance documentation, or when
@@ -96,10 +96,10 @@ respective npm organization.
 
 The npm organization consists of npm teams:
 
-*   `mergers`
-    — includes mergers; [**read-only**][npm-repo-perms] permissions
-*   `releasers`
-    — includes releasers; [**read-write**][npm-repo-perms] permissions
+* `mergers`
+  — includes mergers; [**read-only**][npm-repo-perms] permissions
+* `releasers`
+  — includes releasers; [**read-write**][npm-repo-perms] permissions
 
 ## OpenCollective
 
@@ -135,21 +135,21 @@ as a collective email address.
 
 Maintainers of collective teams have personal addresses:
 
-*   `titus@unifiedjs.com` — [**@wooorm**][wooorm]
-*   `john@unifiedjs.com` — [**@johno**][johno]
-*   `christian@unifiedjs.com` — [**@ChristianMurphy**][christianmurphy]
-*   `merlijn@unifiedjs.com` — [**@Murderlon**][murderlon]
-*   `richard@unifiedjs.com` — [**@RichardLitt**][richardlitt]
-*   `olivia@unifiedjs.com` — [**@komaeda**][komaeda]
+* `titus@unifiedjs.com` — [**@wooorm**][wooorm]
+* `john@unifiedjs.com` — [**@johno**][johno]
+* `christian@unifiedjs.com` — [**@ChristianMurphy**][christianmurphy]
+* `merlijn@unifiedjs.com` — [**@Murderlon**][murderlon]
+* `richard@unifiedjs.com` — [**@RichardLitt**][richardlitt]
+* `olivia@unifiedjs.com` — [**@komaeda**][komaeda]
 
 The following collective email addresses are in use:
 
-*   `contact@unifiedjs.com`
-    — forwards to maintainers of the collective core team
-*   `security@unifiedjs.com`
-    — forwards to maintainers of the collective core team
-*   `moderation@unifiedjs.com`
-    — forwards to maintainers of the collective moderation team
+* `contact@unifiedjs.com`
+  — forwards to maintainers of the collective core team
+* `security@unifiedjs.com`
+  — forwards to maintainers of the collective core team
+* `moderation@unifiedjs.com`
+  — forwards to maintainers of the collective moderation team
 
 Maintainers of collective teams are required to read emails sent to them and,
 when needed, to respond.

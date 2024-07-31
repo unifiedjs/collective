@@ -10,14 +10,14 @@ unified collective core team.
 
 ## Table of contents
 
-*   [Violations](#violations)
-    *   [Reporting](#reporting)
-    *   [Enforcement](#enforcement)
-*   [Playbooks](#playbooks)
-    *   [Moderation](#moderation)
-    *   [Warning](#warning)
-    *   [Expulsion](#expulsion)
-    *   [Blocking](#blocking)
+* [Violations](#violations)
+  * [Reporting](#reporting)
+  * [Enforcement](#enforcement)
+* [Playbooks](#playbooks)
+  * [Moderation](#moderation)
+  * [Warning](#warning)
+  * [Expulsion](#expulsion)
+  * [Blocking](#blocking)
 
 ## Violations
 
@@ -61,10 +61,10 @@ Anyone may report a violation.
 Members should report violations.
 Violations can be reported in the following ways:
 
-*   In private, via the collective email address `moderation@unifiedjs.com`
-*   In private, via email to one or more moderators
-*   In public, via a new post in the same thread as the violation (mentioning
-    `@unifiedjs/moderators`)
+* In private, via the collective email address `moderation@unifiedjs.com`
+* In private, via email to one or more moderators
+* In public, via a new post in the same thread as the violation (mentioning
+  `@unifiedjs/moderators`)
 
 Reporting in private is appropriate when the reporter does not feel comfortable
 directly or publicly making the request.
@@ -116,18 +116,18 @@ The enactor of a *moderation* playbook is a maintainer.
 The offender is a person that authored a violation.
 The result of *moderation* is that a violation is no longer present.
 
-*   Enactor ensures the violation is reported
-*   If the offender is a member, the enactor should give the offender a
-    reasonable opportunity to self-moderate the post.
-    If the offender disagrees to self-moderate, the enactor can escalate to the
-    collective moderation team, by following up on the report, while not
-    continuing to enact moderation.
-    Moderators can decide to continue enacting moderation
-*   Enactor moderates the post, such as by editing, deleting, hiding, or locking
-*   Enactor posts a notification within the original thread, mentioning the
-    offender, that they are in violation of the code of conduct, what behavior
-    was unacceptable, what changes were made to the post, and previously taken
-    steps to resolve, to justify why moderation was warranted
+* Enactor ensures the violation is reported
+* If the offender is a member, the enactor should give the offender a
+  reasonable opportunity to self-moderate the post.
+  If the offender disagrees to self-moderate, the enactor can escalate to the
+  collective moderation team, by following up on the report, while not
+  continuing to enact moderation.
+  Moderators can decide to continue enacting moderation
+* Enactor moderates the post, such as by editing, deleting, hiding, or locking
+* Enactor posts a notification within the original thread, mentioning the
+  offender, that they are in violation of the code of conduct, what behavior
+  was unacceptable, what changes were made to the post, and previously taken
+  steps to resolve, to justify why moderation was warranted
 
 ### Warning
 
@@ -138,9 +138,9 @@ The result of *warning* is that an offender is aware that their behavior is
 in violation of the code of conduct, that the code of conduct is enforced,
 and of future enforcements for continued violations.
 
-*   Enactor posts a warning within the original thread, confirming the
-    justification of why moderation was warranted, that this their first or
-    second official warning, and how a third violation is enforced
+* Enactor posts a warning within the original thread, confirming the
+  justification of why moderation was warranted, that this their first or
+  second official warning, and how a third violation is enforced
 
 ### Expulsion
 
@@ -151,15 +151,15 @@ The *expulsion* playbook is followed after (swift) moderation.
 The result of *expulsion* is that a member is excused from duty and removed from
 all teams.
 
-*   Enactor ensures the violation is reported
-*   Enactor coordinates with a maintainer of the collective core team to jointly
-    and swiftly enact the *offboarding* playbook for all teams the offender
-    is currently a member of, but instead of assigning a new role, removing them
-    entirely
-*   Enactor posts within the original thread, mentioning the offender,
-    explaining what behavior was unacceptable, that this was the offender’s
-    third violation or an extreme violation, and confirming that they are
-    expelled from the collective
+* Enactor ensures the violation is reported
+* Enactor coordinates with a maintainer of the collective core team to jointly
+  and swiftly enact the *offboarding* playbook for all teams the offender
+  is currently a member of, but instead of assigning a new role, removing them
+  entirely
+* Enactor posts within the original thread, mentioning the offender,
+  explaining what behavior was unacceptable, that this was the offender’s
+  third violation or an extreme violation, and confirming that they are
+  expelled from the collective
 
 Expulsion poses an imminent risk to the collective as it could cause the
 offender to act in extreme bad-faith and misuse the permissions they were
@@ -174,14 +174,14 @@ third (or fourth) violation.
 The result of *blocking* is that an offender is forcefully removed from the
 spaces governed by the collective.
 
-*   Enactor ensures the violation is reported
-*   Enactor coordinates with a maintainer of the collective core team to jointly
-    block the offender in the spaces governed by the collective, such as GitHub
-    and Twitter
-*   Enactor posts within the original thread, mentioning the offender,
-    explaining what behavior was unacceptable, that this was the offender’s
-    third/fourth violation or an extreme violation, and confirming that they are
-    blocked from the collective
+* Enactor ensures the violation is reported
+* Enactor coordinates with a maintainer of the collective core team to jointly
+  block the offender in the spaces governed by the collective, such as GitHub
+  and Twitter
+* Enactor posts within the original thread, mentioning the offender,
+  explaining what behavior was unacceptable, that this was the offender’s
+  third/fourth violation or an extreme violation, and confirming that they are
+  blocked from the collective
 
 GitHub provides an interface for blocking persons for 1, 3, 7, or 30 days, or
 indefinitely.
