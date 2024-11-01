@@ -1,9 +1,6 @@
 /**
- * @typedef {import('mdast').BlockContent} BlockContent
- * @typedef {import('mdast').List} List
- * @typedef {import('mdast').ListItem} ListItem
- * @typedef {import('mdast').PhrasingContent} PhrasingContent
- * @typedef {import('mdast').Root} Root
+ * @import {BlockContent, ListItem, List, PhrasingContent, Root} from 'mdast'
+ * @import {Plugin} from 'unified'
  */
 
 /**
@@ -40,7 +37,7 @@ const teams = yaml.parse(
 
 const own = {}.hasOwnProperty
 
-/** @type {import('unified').Plugin<[], Root>} */
+/** @type {Plugin<[], Root>} */
 export default function listOfHumans() {
   return function (tree, file) {
     zone(tree, 'humans', function (start, nodes, end) {
