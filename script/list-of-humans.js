@@ -67,6 +67,7 @@ export default function listOfHumans() {
       ]
       /** @type {Partial<Record<Role, Array<string>>>} */
       const byRole = {}
+      /** @type {string} */
       let human
 
       for (human in team.humans) {
