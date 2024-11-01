@@ -1,17 +1,10 @@
 {
-  "name": "collective",
-  "private": true,
-  "version": "0.0.0",
-  "description": "Collective governance for unified",
-  "license": "CC-BY-4.0",
-  "keywords": [],
-  "repository": "unifiedjs/collective",
-  "bugs": "https://github.com/unifiedjs/collective",
   "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
+  "bugs": "https://github.com/unifiedjs/collective",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
-  "type": "module",
+  "description": "Collective governance for unified",
   "devDependencies": {
     "@types/mdast": "^4.0.0",
     "mdast-comment-marker": "^3.0.0",
@@ -23,26 +16,33 @@
     "xo": "^0.59.0",
     "yaml": "^2.0.0"
   },
-  "scripts": {
-    "build": "tsc --build --clean && tsc --build",
-    "format": "remark . -qfo && prettier . -w --log-level warn && xo --fix",
-    "test": "npm run build && npm run format"
-  },
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "name": "collective",
   "prettier": {
-    "tabWidth": 2,
-    "useTabs": false,
-    "singleQuote": true,
     "bracketSpacing": false,
     "semi": false,
-    "trailingComma": "none"
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "useTabs": false
   },
-  "xo": {
-    "prettier": true
-  },
+  "private": true,
   "remarkConfig": {
     "plugins": [
-      "preset-wooorm",
+      "remark-preset-wooorm",
       "./script/list-of-humans.js"
     ]
+  },
+  "repository": "unifiedjs/collective",
+  "scripts": {
+    "build": "tsc --build --clean && tsc --build",
+    "format": "remark --frail --quiet --output -- . && prettier --log-level warn --write -- . && xo --fix",
+    "test": "npm run build && npm run format"
+  },
+  "type": "module",
+  "version": "0.0.0",
+  "xo": {
+    "prettier": true
   }
 }
