@@ -161,38 +161,38 @@ This work is licensed under a
 
 <!-- definitions -->
 
-[license]: https://creativecommons.org/licenses/by/4.0/
-
-[gh-tools]: https://github.com/unifiedjs/github-tools
-
-[npm-tools]: https://github.com/unifiedjs/npm-tools
-
-[mailgun]: https://www.mailgun.com
-
-[wooorm]: https://github.com/wooorm
-
-[johno]: https://github.com/johno
-
 [christianmurphy]: https://github.com/ChristianMurphy
-
-[murderlon]: https://github.com/Murderlon
-
-[richardlitt]: https://github.com/RichardLitt
-
-[komaeda]: https://github.com/komaeda
-
-[github]: https://github.com
-
-[npm]: https://www.npmjs.com
-
-[opencollective]: https://opencollective.com
-
-[twitter]: https://twitter.com
 
 [gh-org-perms]: https://help.github.com/en/articles/permission-levels-for-an-organization#permission-levels-for-an-organization
 
 [gh-repo-perms]: https://help.github.com/en/articles/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level
 
+[gh-tools]: https://github.com/unifiedjs/github-tools
+
+[github]: https://github.com
+
+[johno]: https://github.com/johno
+
+[komaeda]: https://github.com/komaeda
+
+[license]: https://creativecommons.org/licenses/by/4.0/
+
+[mailgun]: https://www.mailgun.com
+
+[murderlon]: https://github.com/Murderlon
+
+[npm]: https://www.npmjs.com
+
 [npm-org-perms]: https://docs.npmjs.com/org-roles-and-permissions
 
 [npm-repo-perms]: https://docs.npmjs.com/cli/access
+
+[npm-tools]: https://github.com/unifiedjs/npm-tools
+
+[opencollective]: https://opencollective.com
+
+[richardlitt]: https://github.com/RichardLitt
+
+[twitter]: https://twitter.com
+
+[wooorm]: https://github.com/wooorm

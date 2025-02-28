@@ -17,7 +17,7 @@ This document is developed by the unified collective core team.
 
 ## Initiatives
 
-```ascii
+```text
   +-------------------+
   |   Does it impact  | yes
   | roles of persons? +----------------------------------------+

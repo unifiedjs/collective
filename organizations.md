@@ -338,26 +338,26 @@ collective.
 
 <!-- Definitions -->
 
-[gh-labels]: https://help.github.com/en/articles/about-labels
-
-[gh-tools]: https://github.com/unifiedjs/github-tools
-
-[permissions]: permissions.md
-
-[labels]: https://github.com/unifiedjs/github-tools/labels
-
-[wooorm]: https://github.com/wooorm
-
-[c-issue]: https://github.com/unifiedjs/.github/tree/main/.github/ISSUE_TEMPLATE
-
-[c-pr]: https://github.com/unifiedjs/.github/blob/main/.github/pull-request-template.md
-
 [c-coc]: code-of-conduct.md
 
 [c-contributing]: https://github.com/unifiedjs/.github/blob/main/contributing.md
 
 [c-funding]: https://github.com/unifiedjs/.github/blob/main/funding.yml
 
+[c-issue]: https://github.com/unifiedjs/.github/tree/main/.github/ISSUE_TEMPLATE
+
+[c-pr]: https://github.com/unifiedjs/.github/blob/main/.github/pull-request-template.md
+
 [c-security]: https://github.com/unifiedjs/.github/blob/main/security.md
 
 [c-support]: https://github.com/unifiedjs/.github/blob/main/support.md
+
+[gh-labels]: https://help.github.com/en/articles/about-labels
+
+[gh-tools]: https://github.com/unifiedjs/github-tools
+
+[labels]: https://github.com/unifiedjs/github-tools/labels
+
+[permissions]: permissions.md
+
+[wooorm]: https://github.com/wooorm

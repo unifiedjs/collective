@@ -38,7 +38,7 @@ Additional policies describe other aspects of governance in detail:
 
 ## Teams
 
-```ascii
+```text
 +-------------------------------------------------+
 |                   COLLECTIVE                    |
 |                core & moderation                |
@@ -693,38 +693,38 @@ This work is licensed under a
 
 [all]: #teams
 
-[collective]: #collective-teams
+[coc]: code-of-conduct.md
 
-[organization]: #organization-teams
+[collective]: #collective-teams
 
 [core]: #core-team
 
-[moderation]: #moderation-team
+[decisions-policy]: decisions.md
 
 [dfn-organization]: #organization
 
 [dfn-project]: #project
 
-[decisions-policy]: decisions.md
+[django]: https://github.com/django/deps/blob/HEAD/accepted/0010-new-governance.rst
+
+[electron]: https://github.com/electron/governance
+
+[license]: https://creativecommons.org/licenses/by/4.0/
 
 [members-policy]: members.md
 
+[moderation]: #moderation-team
+
 [moderation-policy]: moderation.md
-
-[organizations-policy]: organizations.md
-
-[permissions-policy]: permissions.md
-
-[coc]: code-of-conduct.md
-
-[rust]: https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md
 
 [node]: https://github.com/nodejs/node/blob/HEAD/GOVERNANCE.md
 
 [node-admin]: https://github.com/nodejs/admin
 
-[electron]: https://github.com/electron/governance
+[organization]: #organization-teams
 
-[django]: https://github.com/django/deps/blob/HEAD/accepted/0010-new-governance.rst
+[organizations-policy]: organizations.md
 
-[license]: https://creativecommons.org/licenses/by/4.0/
+[permissions-policy]: permissions.md
+
+[rust]: https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md

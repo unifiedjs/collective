@@ -29,7 +29,7 @@ This document is developed by the unified collective core team.
 
 ## Persons
 
-```ascii
+```text
 +--------------------------------------------------------------------------+
 |                                  person                                  |
 |                 +------------------------------------------------------+ |
@@ -465,20 +465,20 @@ steps additionally apply:
 
 <!-- Definitions -->
 
-[wooorm]: https://github.com/wooorm
-
 [humans]: data/humans.yml
 
-[teams]: data/teams.yml
-
 [permissions]: permissions.md
+
+[search-collective]: https://github.com/search?q=org:unifiedjs+org:vfile+org:syntax-tree+org:remarkjs+org:rehypejs+org:retextjs+org:redotjs+org:micromark+org:mdx-js
+
+[search-comments]: https://github.com/search?type=Issues&o=desc&s=created&q=org:vfile+commenter:ChristianMurphy
 
 [search-commits]: https://github.com/search?type=Commits&o=desc&s=committer-date&q=org:syntax-tree+author:eush77
 
 [search-issues]: https://github.com/search?type=Issues&o=desc&s=created&q=org:remarkjs+author:ben-eb
 
-[search-comments]: https://github.com/search?type=Issues&o=desc&s=created&q=org:vfile+commenter:ChristianMurphy
-
 [search-reviews]: https://github.com/search?type=Issues&o=desc&s=created&q=org:unifiedjs+reviewed-by:Murderlon
 
-[search-collective]: https://github.com/search?q=org:unifiedjs+org:vfile+org:syntax-tree+org:remarkjs+org:rehypejs+org:retextjs+org:redotjs+org:micromark+org:mdx-js
+[teams]: data/teams.yml
+
+[wooorm]: https://github.com/wooorm

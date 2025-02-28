@@ -16,8 +16,8 @@ A new Node.js HTTP proxy to route images through SSL,
 compatible with unified plugins,
 to safely embed user content on the web.
 
-The new project: [`rehype/camomile`][]
+The new project: [`rehype/camomile`][camomile]
+
+[camomile]: https://github.com/rehypejs/camomile/
 
 [rfc]: https://github.com/unifiedjs/rfcs/blob/main/text/0005-camo-image-proxy.md
-
-[`rehype/camomile`]: https://github.com/rehypejs/camomile/
