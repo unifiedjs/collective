@@ -136,6 +136,7 @@ function list(team, users) {
   return {
     type: 'list',
     ordered: false,
+    spread: false,
     children: users
       .map((github) => {
         const human = humans.find((p) => p.github === github)

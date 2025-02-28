@@ -128,7 +128,6 @@ The **unified team** is an *[organization][]* team responsible for
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -139,19 +138,15 @@ The **unified team** is an *[organization][]* team responsible for
 * Christian Murphy
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
-
 * John Otander
   ([**@johno**](https://github.com/johno))
   \<johnotander\@gmail.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Junyoung Choi
   ([**@Rokt33r**](https://github.com/Rokt33r))
   \<fluke8259\@gmail.com>
-
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
@@ -161,11 +156,9 @@ The **unified team** is an *[organization][]* team responsible for
 * Mudit Ameta
   ([**@zeusdeux**](https://github.com/zeusdeux))
   \<zeusdeux\@gmail.com>
-
 * Stephan Schneider
   ([**@zcei**](https://github.com/zcei))
   \<stephanschndr\@gmail.com>
-
 * Victor Felder
   ([**@vhf**](https://github.com/vhf))
   \<victor\@draft.li>
@@ -186,11 +179,9 @@ The **remark team** is an *[organization][]* team responsible for
 * John Otander
   ([**@johno**](https://github.com/johno))
   \<johnotander\@gmail.com>
-
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -201,35 +192,27 @@ The **remark team** is an *[organization][]* team responsible for
 * Christian Murphy
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
-
 * Jonathan Haines
   ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
   \<jonno.haines\@gmail.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Junyoung Choi
   ([**@Rokt33r**](https://github.com/Rokt33r))
   \<fluke8259\@gmail.com>
-
 * Keith McKnight
   ([**@kmck**](https://github.com/kmck))
   \<keith\@mcknig.ht>
-
 * Marouane Fazouane
   ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
   \<fazouanem3\@gmail.com>
-
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
-
 * Victor Felder
   ([**@vhf**](https://github.com/vhf))
   \<victor\@draft.li>
-
 * Zeke Sikelianos
   ([**@zeke**](https://github.com/zeke))
   \<zeke\@sikelianos.com>
@@ -239,7 +222,6 @@ The **remark team** is an *[organization][]* team responsible for
 * Mudit Ameta
   ([**@zeusdeux**](https://github.com/zeusdeux))
   \<zeusdeux\@gmail.com>
-
 * Nikita Sobolev
   ([**@sobolevn**](https://github.com/sobolevn))
   \<mail\@sobolevn.me>
@@ -260,11 +242,9 @@ The **rehype team** is an *[organization][]* team responsible for
 * Keith McKnight
   ([**@kmck**](https://github.com/kmck))
   \<keith\@mcknig.ht>
-
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -275,15 +255,12 @@ The **rehype team** is an *[organization][]* team responsible for
 * Christian Murphy
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
-
 * John Otander
   ([**@johno**](https://github.com/johno))
   \<johnotander\@gmail.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
@@ -341,7 +318,6 @@ The **redot team** is an *[organization][]* team responsible for
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
   (**lead**)
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -367,15 +343,12 @@ The **mdx team** is an *[organization][]* team responsible for
   ([**@johno**](https://github.com/johno))
   \<johnotander\@gmail.com>
   (**lead**)
-
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
-
 * Tim Neutkens
   ([**@timneutkens**](https://github.com/timneutkens))
   \<tim\@vercel.com>
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -385,14 +358,11 @@ The **mdx team** is an *[organization][]* team responsible for
 * Christopher Biscardi
   ([**@ChristopherBiscardi**](https://github.com/ChristopherBiscardi))
   \<chris\@christopherbiscardi.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Laurie Barth
   ([**@laurieontech**](https://github.com/laurieontech))
-
 * Sidhartha Chatterjee
   ([**@sidharthachatterjee**](https://github.com/sidharthachatterjee))
   \<me\@sidharthachatterjee.com>
@@ -402,23 +372,18 @@ The **mdx team** is an *[organization][]* team responsible for
 * Adam Morse
   ([**@mrmrs**](https://github.com/mrmrs))
   \<hi\@mrmrs.cc>
-
 * Ahmad Awais
   ([**@ahmadawais**](https://github.com/ahmadawais))
   \<me\@AhmadAwais.com>
-
 * Brent Jackson
   ([**@jxnblk**](https://github.com/jxnblk))
   \<jxnblk\@gmail.com>
-
 * Guillermo Rauch
   ([**@rauchg**](https://github.com/rauchg))
   \<rauchg\@gmail.com>
-
 * Jessica Stokes
   ([**@ticky**](https://github.com/ticky))
   \<hello\@jessicastokes.net>
-
 * Stephan Schneider
   ([**@zcei**](https://github.com/zcei))
   \<stephanschndr\@gmail.com>
@@ -446,19 +411,15 @@ The **micromark team** is an *[organization][]* team responsible for
 * John Otander
   ([**@johno**](https://github.com/johno))
   \<johnotander\@gmail.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Marouane Fazouane
   ([**@fazouane-marouane**](https://github.com/fazouane-marouane))
   \<fazouanem3\@gmail.com>
-
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
-
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
@@ -468,11 +429,9 @@ The **micromark team** is an *[organization][]* team responsible for
 * Mudit Ameta
   ([**@zeusdeux**](https://github.com/zeusdeux))
   \<zeusdeux\@gmail.com>
-
 * Stephan Schneider
   ([**@zcei**](https://github.com/zcei))
   \<stephanschndr\@gmail.com>
-
 * Victor Felder
   ([**@vhf**](https://github.com/vhf))
   \<victor\@draft.li>
@@ -493,7 +452,6 @@ The **syntax tree team** is an *[organization][]* team responsible for
 * Keith McKnight
   ([**@kmck**](https://github.com/kmck))
   \<keith\@mcknig.ht>
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -504,19 +462,15 @@ The **syntax tree team** is an *[organization][]* team responsible for
 * Christian Murphy
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
-
 * Jonathan Haines
   ([**@BarryThePenguin**](https://github.com/BarryThePenguin))
   \<jonno.haines\@gmail.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
-
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
@@ -544,15 +498,12 @@ The **vfile team** is an *[organization][]* team responsible for
 * Christian Murphy
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
-
 * Joun Qin
   ([**@JounQin**](https://github.com/JounQin))
   \<admin\@1stg.me>
-
 * Junyoung Choi
   ([**@Rokt33r**](https://github.com/Rokt33r))
   \<fluke8259\@gmail.com>
-
 * Remco Haszing
   ([**@remcohaszing**](https://github.com/remcohaszing))
   \<remcohaszing\@gmail.com>
@@ -605,15 +556,12 @@ They:
 * Christian Murphy
   ([**@ChristianMurphy**](https://github.com/ChristianMurphy))
   \<christian.murphy.42\@gmail.com>
-
 * John Otander
   ([**@johno**](https://github.com/johno))
   \<johnotander\@gmail.com>
-
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
-
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
@@ -623,7 +571,6 @@ They:
 * Richard Littauer
   ([**@RichardLitt**](https://github.com/RichardLitt))
   \<richard\@maintainer.io>
-
 * Stephan Schneider
   ([**@zcei**](https://github.com/zcei))
   \<stephanschndr\@gmail.com>
@@ -644,7 +591,6 @@ not include **[core team][core]** members.
 * Olivia Hugger
   ([**@komaeda**](https://github.com/komaeda))
   \<mokou\@posteo.de>
-
 * Richard Littauer
   ([**@RichardLitt**](https://github.com/RichardLitt))
   \<richard\@maintainer.io>
