@@ -119,10 +119,11 @@ It is owned by [**@wooorm**][wooorm] and [**@johno**][johno].
 
 ## Domains
 
-The [`unifiedjs.com`](https://unifiedjs.com) and
-[`mdxjs.com`](https://mdxjs.com) domains are governed by the collective.
-They are respectively registered by [**@wooorm**][wooorm] and
-[**@johno**][johno].
+The [`unifiedjs.com`](https://unifiedjs.com),
+[`mdxjs.com`](https://mdxjs.com), and
+[`mdxjs.org`](https://mdxjs.org)
+domains are governed by the collective.
+They are registered by [**@wooorm**][wooorm].
 
 ## Email
 
