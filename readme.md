@@ -562,6 +562,9 @@ They:
 * Merlijn Vos
   ([**@Murderlon**](https://github.com/Murderlon))
   \<merlijn\@soverin.net>
+* Remco Haszing
+  ([**@remcohaszing**](https://github.com/remcohaszing))
+  \<remcohaszing\@gmail.com>
 * Titus Wormer
   ([**@wooorm**](https://github.com/wooorm))
   \<tituswormer\@gmail.com>
